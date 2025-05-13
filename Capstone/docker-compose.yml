@@ -1,0 +1,82 @@
+version: '3.9'
+
+services:
+
+  # Spring Boot Product Service
+  product-service:
+    build:
+      context: ./product-service
+    ports:
+      - "9000:9000"
+    depends_on:
+      - service-registry
+    networks:
+      - backend
+
+  # Node Customer Service
+  customer-service:
+    build:
+      context: ./Customer_Service
+    ports:
+      - "5001:5001"
+    depends_on:
+      - service-registry
+    networks:
+      - backend
+
+  # Node Service Registry 
+  service-registry:
+    build:
+      context: ./service-registry
+    ports:
+      - "3001:3001"
+    networks:
+      - backend
+
+  # Python Feedback Service (Flask)
+  feedback-service:
+    build:
+      context: ./Feedback-service
+    ports:
+      - "5000:5000"
+    networks:
+      - backend
+
+  # Python Login Server (Flask)
+  login-server:
+    build:
+      context: ./Login-server
+    ports:
+      - "5050:5050"
+    networks:
+      - backend
+
+  # Python Recommendation Service
+  recommendation-service:
+    build:
+      context: ./Recommendation_Service
+    ports:
+      - "8080:8080"
+    networks:
+      - backend
+
+  # React Frontend
+  frontend:
+    build:
+      context: ./cosmetics
+    ports:
+      - "3000:3000"
+    stdin_open: true
+    tty: true
+    depends_on:
+      - product-service
+      - customer-service
+      - feedback-service
+      - login-server
+      - recommendation-service
+    networks:
+      - backend
+
+networks:
+  backend:
+    driver: bridge

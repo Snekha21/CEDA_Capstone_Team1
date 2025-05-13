@@ -1,0 +1,11 @@
+product_id,user_id,rating,review_text,skin_type
+P101,U101,5,"So smooth and gentle!",sensitive
+P102,U102,4,"Nice texture, but not long lasting.",oily
+P103,U103,3,"Average product, nothing special.",combination
+P104,U104,5,"Loved the fragrance and effect!",dry
+P105,U105,2,"Caused irritation on my skin.",sensitive
+P106,U106,4,"Hydrating and light, good for daily use.",normal
+P107,U107,1,"Not suitable for my skin type.",oily
+P108,U108,5,"Perfect for summer days!",combination
+P109,U109,3,"Decent, but overpriced.",normal
+P110,U110,4,"Feels refreshing and smooth.",dry

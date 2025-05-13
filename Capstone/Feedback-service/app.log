@@ -1,0 +1,934 @@
+2025-05-08 16:46:18,011 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-08 16:46:18,011 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-08 16:46:18,014 - INFO -  * Restarting with stat
+2025-05-08 16:46:22,175 - WARNING -  * Debugger is active!
+2025-05-08 16:46:22,179 - INFO -  * Debugger PIN: 265-654-003
+2025-05-08 16:54:34,175 - INFO - GET /feedback/all - 127.0.0.1
+2025-05-08 16:54:34,197 - INFO - 127.0.0.1 - - [08/May/2025 16:54:34] "GET /feedback/all HTTP/1.1" 200 -
+2025-05-08 17:11:25,348 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-08 17:11:25,350 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-08 17:11:25,353 - INFO -  * Restarting with stat
+2025-05-08 17:11:32,134 - WARNING -  * Debugger is active!
+2025-05-08 17:11:32,140 - INFO -  * Debugger PIN: 265-654-003
+2025-05-08 17:30:55,976 - INFO - OPTIONS /api/admin_signup - 127.0.0.1
+2025-05-08 17:30:55,979 - INFO - 127.0.0.1 - - [08/May/2025 17:30:55] "[33mOPTIONS /api/admin_signup HTTP/1.1[0m" 404 -
+2025-05-08 17:30:58,064 - INFO - OPTIONS /api/admin_signup - 127.0.0.1
+2025-05-08 17:30:58,066 - INFO - 127.0.0.1 - - [08/May/2025 17:30:58] "[33mOPTIONS /api/admin_signup HTTP/1.1[0m" 404 -
+2025-05-08 17:31:00,000 - INFO - OPTIONS /api/admin_signup - 127.0.0.1
+2025-05-08 17:31:00,002 - INFO - 127.0.0.1 - - [08/May/2025 17:31:00] "[33mOPTIONS /api/admin_signup HTTP/1.1[0m" 404 -
+2025-05-08 17:31:32,939 - INFO - OPTIONS /api/admin_signup - 127.0.0.1
+2025-05-08 17:31:32,940 - INFO - 127.0.0.1 - - [08/May/2025 17:31:32] "[33mOPTIONS /api/admin_signup HTTP/1.1[0m" 404 -
+2025-05-08 17:31:35,636 - INFO - OPTIONS /api/admin_signup - 127.0.0.1
+2025-05-08 17:31:35,638 - INFO - 127.0.0.1 - - [08/May/2025 17:31:35] "[33mOPTIONS /api/admin_signup HTTP/1.1[0m" 404 -
+2025-05-08 17:31:58,491 - INFO - OPTIONS /api/admin_signup - 127.0.0.1
+2025-05-08 17:31:58,493 - INFO - 127.0.0.1 - - [08/May/2025 17:31:58] "[33mOPTIONS /api/admin_signup HTTP/1.1[0m" 404 -
+2025-05-08 17:32:05,350 - INFO - OPTIONS /api/admin_signup - 127.0.0.1
+2025-05-08 17:32:05,352 - INFO - 127.0.0.1 - - [08/May/2025 17:32:05] "[33mOPTIONS /api/admin_signup HTTP/1.1[0m" 404 -
+2025-05-08 17:32:33,025 - INFO - OPTIONS /api/admin_signup - 127.0.0.1
+2025-05-08 17:32:33,028 - INFO - 127.0.0.1 - - [08/May/2025 17:32:33] "[33mOPTIONS /api/admin_signup HTTP/1.1[0m" 404 -
+2025-05-08 17:32:34,507 - INFO - OPTIONS /api/admin_signup - 127.0.0.1
+2025-05-08 17:32:34,509 - INFO - 127.0.0.1 - - [08/May/2025 17:32:34] "[33mOPTIONS /api/admin_signup HTTP/1.1[0m" 404 -
+2025-05-08 17:33:13,751 - INFO - OPTIONS /api/admin_signup - 127.0.0.1
+2025-05-08 17:33:13,752 - INFO - 127.0.0.1 - - [08/May/2025 17:33:13] "[33mOPTIONS /api/admin_signup HTTP/1.1[0m" 404 -
+2025-05-08 17:33:31,223 - INFO - OPTIONS /api/admin_signup - 127.0.0.1
+2025-05-08 17:33:31,225 - INFO - 127.0.0.1 - - [08/May/2025 17:33:31] "[33mOPTIONS /api/admin_signup HTTP/1.1[0m" 404 -
+2025-05-08 17:34:51,070 - INFO - OPTIONS /api/admin_signup - 127.0.0.1
+2025-05-08 17:34:51,072 - INFO - 127.0.0.1 - - [08/May/2025 17:34:51] "[33mOPTIONS /api/admin_signup HTTP/1.1[0m" 404 -
+2025-05-08 17:35:15,082 - INFO - OPTIONS /api/admin_signup - 127.0.0.1
+2025-05-08 17:35:15,083 - INFO - 127.0.0.1 - - [08/May/2025 17:35:15] "[33mOPTIONS /api/admin_signup HTTP/1.1[0m" 404 -
+2025-05-08 17:36:00,387 - INFO - GET /api/admin_signup - 127.0.0.1
+2025-05-08 17:36:00,389 - INFO - 127.0.0.1 - - [08/May/2025 17:36:00] "[33mGET /api/admin_signup HTTP/1.1[0m" 404 -
+2025-05-08 17:37:10,977 - INFO - OPTIONS /api/customer_login - 127.0.0.1
+2025-05-08 17:37:10,980 - INFO - 127.0.0.1 - - [08/May/2025 17:37:10] "[33mOPTIONS /api/customer_login HTTP/1.1[0m" 404 -
+2025-05-08 17:37:18,139 - INFO - OPTIONS /api/customer_login - 127.0.0.1
+2025-05-08 17:37:18,141 - INFO - 127.0.0.1 - - [08/May/2025 17:37:18] "[33mOPTIONS /api/customer_login HTTP/1.1[0m" 404 -
+2025-05-08 17:38:32,794 - INFO - OPTIONS /api/customer_login - 127.0.0.1
+2025-05-08 17:38:32,795 - INFO - 127.0.0.1 - - [08/May/2025 17:38:32] "[33mOPTIONS /api/customer_login HTTP/1.1[0m" 404 -
+2025-05-08 17:38:35,718 - INFO - OPTIONS /api/customer_login - 127.0.0.1
+2025-05-08 17:38:35,720 - INFO - 127.0.0.1 - - [08/May/2025 17:38:35] "[33mOPTIONS /api/customer_login HTTP/1.1[0m" 404 -
+2025-05-08 17:38:37,278 - INFO - OPTIONS /api/customer_login - 127.0.0.1
+2025-05-08 17:38:37,279 - INFO - 127.0.0.1 - - [08/May/2025 17:38:37] "[33mOPTIONS /api/customer_login HTTP/1.1[0m" 404 -
+2025-05-08 17:38:54,409 - INFO - OPTIONS /api/customer_signup - 127.0.0.1
+2025-05-08 17:38:54,411 - INFO - 127.0.0.1 - - [08/May/2025 17:38:54] "[33mOPTIONS /api/customer_signup HTTP/1.1[0m" 404 -
+2025-05-08 17:39:48,772 - INFO - OPTIONS /api/customer_login - 127.0.0.1
+2025-05-08 17:39:48,774 - INFO - 127.0.0.1 - - [08/May/2025 17:39:48] "[33mOPTIONS /api/customer_login HTTP/1.1[0m" 404 -
+2025-05-08 17:39:54,672 - INFO - OPTIONS /api/customer_login - 127.0.0.1
+2025-05-08 17:39:54,674 - INFO - 127.0.0.1 - - [08/May/2025 17:39:54] "[33mOPTIONS /api/customer_login HTTP/1.1[0m" 404 -
+2025-05-08 17:39:56,283 - INFO - OPTIONS /api/customer_login - 127.0.0.1
+2025-05-08 17:39:56,285 - INFO - 127.0.0.1 - - [08/May/2025 17:39:56] "[33mOPTIONS /api/customer_login HTTP/1.1[0m" 404 -
+2025-05-08 17:40:00,373 - INFO - OPTIONS /api/customer_login - 127.0.0.1
+2025-05-08 17:40:00,375 - INFO - 127.0.0.1 - - [08/May/2025 17:40:00] "[33mOPTIONS /api/customer_login HTTP/1.1[0m" 404 -
+2025-05-08 17:40:01,021 - INFO - OPTIONS /api/customer_login - 127.0.0.1
+2025-05-08 17:40:01,023 - INFO - 127.0.0.1 - - [08/May/2025 17:40:01] "[33mOPTIONS /api/customer_login HTTP/1.1[0m" 404 -
+2025-05-08 17:40:20,564 - INFO - OPTIONS /api/customer_signup - 127.0.0.1
+2025-05-08 17:40:20,566 - INFO - 127.0.0.1 - - [08/May/2025 17:40:20] "[33mOPTIONS /api/customer_signup HTTP/1.1[0m" 404 -
+2025-05-08 17:40:44,451 - INFO - OPTIONS /api/customer_signup - 127.0.0.1
+2025-05-08 17:40:44,453 - INFO - 127.0.0.1 - - [08/May/2025 17:40:44] "[33mOPTIONS /api/customer_signup HTTP/1.1[0m" 404 -
+2025-05-09 20:40:34,190 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-09 20:40:34,190 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 20:40:34,192 - INFO -  * Restarting with stat
+2025-05-09 20:40:35,845 - WARNING -  * Debugger is active!
+2025-05-09 20:40:35,847 - INFO -  * Debugger PIN: 265-654-003
+2025-05-09 20:41:57,711 - INFO - GET /feedback/eda - 127.0.0.1
+2025-05-09 20:41:57,732 - INFO - 127.0.0.1 - - [09/May/2025 20:41:57] "GET /feedback/eda HTTP/1.1" 200 -
+2025-05-09 20:41:57,959 - INFO - GET /feedback/eda - 127.0.0.1
+2025-05-09 20:41:57,966 - INFO - 127.0.0.1 - - [09/May/2025 20:41:57] "GET /feedback/eda HTTP/1.1" 200 -
+2025-05-09 20:42:45,912 - INFO - GET /feedback/eda - 127.0.0.1
+2025-05-09 20:42:45,932 - INFO - 127.0.0.1 - - [09/May/2025 20:42:45] "GET /feedback/eda HTTP/1.1" 200 -
+2025-05-09 20:42:46,249 - INFO - GET /feedback/eda - 127.0.0.1
+2025-05-09 20:42:46,267 - INFO - 127.0.0.1 - - [09/May/2025 20:42:46] "GET /feedback/eda HTTP/1.1" 200 -
+2025-05-09 20:45:15,613 - INFO - GET /feedback/all - 127.0.0.1
+2025-05-09 20:45:15,616 - INFO - 127.0.0.1 - - [09/May/2025 20:45:15] "GET /feedback/all HTTP/1.1" 200 -
+2025-05-09 20:45:15,866 - INFO - GET /feedback/all - 127.0.0.1
+2025-05-09 20:45:15,870 - INFO - 127.0.0.1 - - [09/May/2025 20:45:15] "GET /feedback/all HTTP/1.1" 200 -
+2025-05-10 14:57:12,129 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-10 14:57:12,132 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-10 14:57:12,140 - INFO -  * Restarting with stat
+2025-05-10 14:57:17,425 - WARNING -  * Debugger is active!
+2025-05-10 14:57:17,430 - INFO -  * Debugger PIN: 265-654-003
+2025-05-10 14:57:17,449 - INFO - GET /feedback/eda - 127.0.0.1
+2025-05-10 14:57:17,496 - INFO - 127.0.0.1 - - [10/May/2025 14:57:17] "GET /feedback/eda HTTP/1.1" 200 -
+2025-05-10 14:57:17,504 - INFO - GET /feedback/eda - 127.0.0.1
+2025-05-10 14:57:17,519 - INFO - 127.0.0.1 - - [10/May/2025 14:57:17] "GET /feedback/eda HTTP/1.1" 200 -
+2025-05-10 15:17:09,021 - INFO - GET /feedback/eda - 127.0.0.1
+2025-05-10 15:17:09,037 - INFO - 127.0.0.1 - - [10/May/2025 15:17:09] "GET /feedback/eda HTTP/1.1" 200 -
+2025-05-10 15:17:09,292 - INFO - GET /feedback/eda - 127.0.0.1
+2025-05-10 15:17:09,318 - INFO - 127.0.0.1 - - [10/May/2025 15:17:09] "GET /feedback/eda HTTP/1.1" 200 -
+2025-05-10 15:17:28,111 - INFO - GET /feedback/eda - 127.0.0.1
+2025-05-10 15:17:28,128 - INFO - 127.0.0.1 - - [10/May/2025 15:17:28] "GET /feedback/eda HTTP/1.1" 200 -
+2025-05-10 15:17:28,442 - INFO - GET /feedback/eda - 127.0.0.1
+2025-05-10 15:17:28,465 - INFO - 127.0.0.1 - - [10/May/2025 15:17:28] "GET /feedback/eda HTTP/1.1" 200 -
+2025-05-10 15:18:54,901 - INFO - GET /feedback/all - 127.0.0.1
+2025-05-10 15:18:54,906 - INFO - 127.0.0.1 - - [10/May/2025 15:18:54] "GET /feedback/all HTTP/1.1" 200 -
+2025-05-10 15:18:55,150 - INFO - GET /feedback/all - 127.0.0.1
+2025-05-10 15:18:55,155 - INFO - 127.0.0.1 - - [10/May/2025 15:18:55] "GET /feedback/all HTTP/1.1" 200 -
+2025-05-10 21:33:59,923 - INFO - GET /feedback/eda - 127.0.0.1
+2025-05-10 21:34:00,074 - INFO - 127.0.0.1 - - [10/May/2025 21:34:00] "GET /feedback/eda HTTP/1.1" 200 -
+2025-05-10 21:34:00,146 - INFO - GET /feedback/eda - 127.0.0.1
+2025-05-10 21:34:00,166 - INFO - 127.0.0.1 - - [10/May/2025 21:34:00] "GET /feedback/eda HTTP/1.1" 200 -
+2025-05-10 21:36:35,308 - INFO - GET /feedback/eda - 127.0.0.1
+2025-05-10 21:36:35,326 - INFO - 127.0.0.1 - - [10/May/2025 21:36:35] "GET /feedback/eda HTTP/1.1" 200 -
+2025-05-10 21:36:35,560 - INFO - GET /feedback/eda - 127.0.0.1
+2025-05-10 21:36:35,584 - INFO - 127.0.0.1 - - [10/May/2025 21:36:35] "GET /feedback/eda HTTP/1.1" 200 -
+2025-05-10 21:38:07,997 - INFO - GET /feedback/all - 127.0.0.1
+2025-05-10 21:38:08,005 - INFO - 127.0.0.1 - - [10/May/2025 21:38:08] "GET /feedback/all HTTP/1.1" 200 -
+2025-05-10 21:38:08,248 - INFO - GET /feedback/all - 127.0.0.1
+2025-05-10 21:38:08,251 - INFO - 127.0.0.1 - - [10/May/2025 21:38:08] "GET /feedback/all HTTP/1.1" 200 -
+2025-05-10 21:38:46,770 - INFO - GET /feedback/all - 127.0.0.1
+2025-05-10 21:38:46,776 - INFO - 127.0.0.1 - - [10/May/2025 21:38:46] "GET /feedback/all HTTP/1.1" 200 -
+2025-05-10 21:38:47,085 - INFO - GET /feedback/all - 127.0.0.1
+2025-05-10 21:38:47,089 - INFO - 127.0.0.1 - - [10/May/2025 21:38:47] "GET /feedback/all HTTP/1.1" 200 -
+2025-05-10 21:39:04,389 - INFO - GET /feedback/all - 127.0.0.1
+2025-05-10 21:39:04,394 - INFO - 127.0.0.1 - - [10/May/2025 21:39:04] "GET /feedback/all HTTP/1.1" 200 -
+2025-05-10 21:39:04,640 - INFO - GET /feedback/all - 127.0.0.1
+2025-05-10 21:39:04,645 - INFO - 127.0.0.1 - - [10/May/2025 21:39:04] "GET /feedback/all HTTP/1.1" 200 -
+2025-05-10 21:39:35,623 - INFO - GET /feedback/all - 127.0.0.1
+2025-05-10 21:39:35,627 - INFO - 127.0.0.1 - - [10/May/2025 21:39:35] "GET /feedback/all HTTP/1.1" 200 -
+2025-05-10 21:39:35,933 - INFO - GET /feedback/all - 127.0.0.1
+2025-05-10 21:39:35,938 - INFO - 127.0.0.1 - - [10/May/2025 21:39:35] "GET /feedback/all HTTP/1.1" 200 -
+2025-05-10 22:37:33,848 - INFO -  * Detected change in 'C:\\Users\\ssnekha001\\Desktop\\Capstone\\Feedback-service\\app.py', reloading
+2025-05-10 22:37:34,805 - INFO -  * Restarting with stat
+2025-05-10 22:37:43,710 - WARNING -  * Debugger is active!
+2025-05-10 22:37:43,718 - INFO -  * Debugger PIN: 265-654-003
+2025-05-10 22:39:24,845 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-10 22:39:24,846 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-10 22:39:24,849 - INFO -  * Restarting with stat
+2025-05-10 22:39:28,978 - WARNING -  * Debugger is active!
+2025-05-10 22:39:28,981 - INFO -  * Debugger PIN: 265-654-003
+2025-05-10 22:39:29,995 - INFO -  * Detected change in 'C:\\Users\\ssnekha001\\Desktop\\Capstone\\Feedback-service\\app.py', reloading
+2025-05-10 22:39:30,378 - INFO -  * Restarting with stat
+2025-05-10 22:39:34,538 - WARNING -  * Debugger is active!
+2025-05-10 22:39:34,541 - INFO -  * Debugger PIN: 265-654-003
+2025-05-10 22:39:56,740 - INFO -  * Detected change in 'C:\\Users\\ssnekha001\\Desktop\\Capstone\\Feedback-service\\app.py', reloading
+2025-05-10 22:39:57,144 - INFO -  * Restarting with stat
+2025-05-10 22:40:06,694 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-10 22:40:06,694 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-10 22:40:06,696 - INFO -  * Restarting with stat
+2025-05-10 22:40:09,975 - WARNING -  * Debugger is active!
+2025-05-10 22:40:09,978 - INFO -  * Debugger PIN: 265-654-003
+2025-05-11 00:08:50,466 - INFO - GET /feedback/eda - 127.0.0.1
+2025-05-11 00:08:50,753 - INFO - 127.0.0.1 - - [11/May/2025 00:08:50] "GET /feedback/eda HTTP/1.1" 200 -
+2025-05-11 00:08:50,759 - INFO - GET /feedback/eda - 127.0.0.1
+2025-05-11 00:08:50,781 - INFO - 127.0.0.1 - - [11/May/2025 00:08:50] "GET /feedback/eda HTTP/1.1" 200 -
+2025-05-11 00:08:58,291 - INFO - GET /feedback/eda - 127.0.0.1
+2025-05-11 00:08:58,315 - INFO - 127.0.0.1 - - [11/May/2025 00:08:58] "GET /feedback/eda HTTP/1.1" 200 -
+2025-05-11 00:08:58,542 - INFO - GET /feedback/eda - 127.0.0.1
+2025-05-11 00:08:58,570 - INFO - 127.0.0.1 - - [11/May/2025 00:08:58] "GET /feedback/eda HTTP/1.1" 200 -
+2025-05-11 00:09:19,974 - INFO - GET /feedback/eda - 127.0.0.1
+2025-05-11 00:09:20,005 - INFO - 127.0.0.1 - - [11/May/2025 00:09:20] "GET /feedback/eda HTTP/1.1" 200 -
+2025-05-11 01:34:34,516 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9000 <connecting> [IPv6 ('::1', 9000, 0, 0)]>: connecting to localhost:9000 [('::1', 9000, 0, 0) IPv6]
+2025-05-11 01:34:34,526 - ERROR - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9000 <checking_api_versions_recv> [IPv6 ('::1', 9000, 0, 0)]>: socket disconnected
+2025-05-11 01:34:34,527 - ERROR - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9000 <checking_api_versions_recv> [IPv6 ('::1', 9000, 0, 0)]>: Closing connection. KafkaConnectionError: socket disconnected
+2025-05-11 01:34:34,527 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9000 <connecting> [IPv4 ('127.0.0.1', 9000)]>: connecting to localhost:9000 [('127.0.0.1', 9000) IPv4]
+2025-05-11 01:34:34,536 - ERROR - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9000 <checking_api_versions_recv> [IPv4 ('127.0.0.1', 9000)]>: socket disconnected
+2025-05-11 01:34:34,536 - ERROR - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9000 <checking_api_versions_recv> [IPv4 ('127.0.0.1', 9000)]>: Closing connection. KafkaConnectionError: socket disconnected
+2025-05-11 01:34:34,537 - WARNING - No node available during check_version; sleeping 0.04 secs
+2025-05-11 01:34:34,577 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9000 <connecting> [IPv6 ('::1', 9000, 0, 0)]>: connecting to localhost:9000 [('::1', 9000, 0, 0) IPv6]
+2025-05-11 01:34:35,016 - WARNING - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9000 <checking_api_versions_recv> [IPv6 ('::1', 9000, 0, 0)]>: timed out after 250.0 ms. Closing connection.
+2025-05-11 01:34:35,016 - ERROR - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9000 <checking_api_versions_recv> [IPv6 ('::1', 9000, 0, 0)]>: Closing connection. [Error 7] RequestTimedOutError: Request timed out after 250.0 ms
+2025-05-11 01:34:35,128 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9000 <connecting> [IPv4 ('127.0.0.1', 9000)]>: connecting to localhost:9000 [('127.0.0.1', 9000) IPv4]
+2025-05-11 01:34:35,137 - ERROR - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9000 <checking_api_versions_recv> [IPv4 ('127.0.0.1', 9000)]>: socket disconnected
+2025-05-11 01:34:35,138 - ERROR - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9000 <checking_api_versions_recv> [IPv4 ('127.0.0.1', 9000)]>: Closing connection. KafkaConnectionError: socket disconnected
+2025-05-11 01:34:35,138 - WARNING - No node available during check_version; sleeping 0.08 secs
+2025-05-11 01:34:35,224 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9000 <connecting> [IPv6 ('::1', 9000, 0, 0)]>: connecting to localhost:9000 [('::1', 9000, 0, 0) IPv6]
+2025-05-11 01:34:35,682 - WARNING - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9000 <checking_api_versions_recv> [IPv6 ('::1', 9000, 0, 0)]>: timed out after 62.5 ms. Closing connection.
+2025-05-11 01:34:35,682 - ERROR - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9000 <checking_api_versions_recv> [IPv6 ('::1', 9000, 0, 0)]>: Closing connection. [Error 7] RequestTimedOutError: Request timed out after 62.5 ms
+2025-05-11 01:34:35,801 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9000 <connecting> [IPv4 ('127.0.0.1', 9000)]>: connecting to localhost:9000 [('127.0.0.1', 9000) IPv4]
+2025-05-11 01:34:36,223 - WARNING - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9000 <checking_api_versions_recv> [IPv4 ('127.0.0.1', 9000)]>: timed out after 31.25 ms. Closing connection.
+2025-05-11 01:34:36,223 - ERROR - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9000 <checking_api_versions_recv> [IPv4 ('127.0.0.1', 9000)]>: Closing connection. [Error 7] RequestTimedOutError: Request timed out after 31.25 ms
+2025-05-11 01:34:36,316 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9000 <connecting> [IPv6 ('::1', 9000, 0, 0)]>: connecting to localhost:9000 [('::1', 9000, 0, 0) IPv6]
+2025-05-11 01:34:36,327 - ERROR - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9000 <checking_api_versions_send> [IPv6 ('::1', 9000, 0, 0)]>: Closing connection. KafkaConnectionError: Unable to determine broker version.
+2025-05-11 01:34:36,327 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9000 <connecting> [IPv4 ('127.0.0.1', 9000)]>: connecting to localhost:9000 [('127.0.0.1', 9000) IPv4]
+2025-05-11 01:34:36,328 - ERROR - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9000 <checking_api_versions_send> [IPv4 ('127.0.0.1', 9000)]>: Closing connection. KafkaConnectionError: Unable to determine broker version.
+2025-05-11 01:34:36,329 - WARNING - No node available during check_version; sleeping 0.18 secs
+2025-05-11 01:34:46,235 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9000 <connecting> [IPv6 ('::1', 9000, 0, 0)]>: connecting to localhost:9000 [('::1', 9000, 0, 0) IPv6]
+2025-05-11 01:34:46,244 - ERROR - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9000 <checking_api_versions_recv> [IPv6 ('::1', 9000, 0, 0)]>: socket disconnected
+2025-05-11 01:34:46,244 - ERROR - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9000 <checking_api_versions_recv> [IPv6 ('::1', 9000, 0, 0)]>: Closing connection. KafkaConnectionError: socket disconnected
+2025-05-11 01:34:46,245 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9000 <connecting> [IPv4 ('127.0.0.1', 9000)]>: connecting to localhost:9000 [('127.0.0.1', 9000) IPv4]
+2025-05-11 01:34:46,663 - ERROR - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9000 <checking_api_versions_recv> [IPv4 ('127.0.0.1', 9000)]>: socket disconnected
+2025-05-11 01:34:46,664 - ERROR - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9000 <checking_api_versions_recv> [IPv4 ('127.0.0.1', 9000)]>: Closing connection. KafkaConnectionError: socket disconnected
+2025-05-11 01:34:46,751 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9000 <connecting> [IPv6 ('::1', 9000, 0, 0)]>: connecting to localhost:9000 [('::1', 9000, 0, 0) IPv6]
+2025-05-11 01:34:47,250 - WARNING - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9000 <checking_api_versions_recv> [IPv6 ('::1', 9000, 0, 0)]>: timed out after 250.0 ms. Closing connection.
+2025-05-11 01:34:47,251 - ERROR - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9000 <checking_api_versions_recv> [IPv6 ('::1', 9000, 0, 0)]>: Closing connection. [Error 7] RequestTimedOutError: Request timed out after 250.0 ms
+2025-05-11 01:34:47,387 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9000 <connecting> [IPv4 ('127.0.0.1', 9000)]>: connecting to localhost:9000 [('127.0.0.1', 9000) IPv4]
+2025-05-11 01:34:47,989 - WARNING - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9000 <checking_api_versions_recv> [IPv4 ('127.0.0.1', 9000)]>: timed out after 125.0 ms. Closing connection.
+2025-05-11 01:34:47,989 - ERROR - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9000 <checking_api_versions_recv> [IPv4 ('127.0.0.1', 9000)]>: Closing connection. [Error 7] RequestTimedOutError: Request timed out after 125.0 ms
+2025-05-11 01:34:48,117 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9000 <connecting> [IPv6 ('::1', 9000, 0, 0)]>: connecting to localhost:9000 [('::1', 9000, 0, 0) IPv6]
+2025-05-11 01:34:48,611 - WARNING - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9000 <checking_api_versions_recv> [IPv6 ('::1', 9000, 0, 0)]>: timed out after 62.5 ms. Closing connection.
+2025-05-11 01:34:48,612 - ERROR - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9000 <checking_api_versions_recv> [IPv6 ('::1', 9000, 0, 0)]>: Closing connection. [Error 7] RequestTimedOutError: Request timed out after 62.5 ms
+2025-05-11 01:35:00,388 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9000 <connecting> [IPv6 ('::1', 9000, 0, 0)]>: connecting to localhost:9000 [('::1', 9000, 0, 0) IPv6]
+2025-05-11 01:35:00,866 - ERROR - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9000 <checking_api_versions_recv> [IPv6 ('::1', 9000, 0, 0)]>: socket disconnected
+2025-05-11 01:35:00,866 - ERROR - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9000 <checking_api_versions_recv> [IPv6 ('::1', 9000, 0, 0)]>: Closing connection. KafkaConnectionError: socket disconnected
+2025-05-11 01:35:00,952 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9000 <connecting> [IPv4 ('127.0.0.1', 9000)]>: connecting to localhost:9000 [('127.0.0.1', 9000) IPv4]
+2025-05-11 01:35:01,372 - ERROR - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9000 <checking_api_versions_recv> [IPv4 ('127.0.0.1', 9000)]>: socket disconnected
+2025-05-11 01:35:01,373 - ERROR - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9000 <checking_api_versions_recv> [IPv4 ('127.0.0.1', 9000)]>: Closing connection. KafkaConnectionError: socket disconnected
+2025-05-11 01:35:01,448 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9000 <connecting> [IPv6 ('::1', 9000, 0, 0)]>: connecting to localhost:9000 [('::1', 9000, 0, 0) IPv6]
+2025-05-11 01:35:01,916 - WARNING - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9000 <checking_api_versions_recv> [IPv6 ('::1', 9000, 0, 0)]>: timed out after 250.0 ms. Closing connection.
+2025-05-11 01:35:01,916 - ERROR - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9000 <checking_api_versions_recv> [IPv6 ('::1', 9000, 0, 0)]>: Closing connection. [Error 7] RequestTimedOutError: Request timed out after 250.0 ms
+2025-05-11 01:35:02,005 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9000 <connecting> [IPv4 ('127.0.0.1', 9000)]>: connecting to localhost:9000 [('127.0.0.1', 9000) IPv4]
+2025-05-11 01:35:02,449 - WARNING - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9000 <checking_api_versions_recv> [IPv4 ('127.0.0.1', 9000)]>: timed out after 125.0 ms. Closing connection.
+2025-05-11 01:35:02,449 - ERROR - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9000 <checking_api_versions_recv> [IPv4 ('127.0.0.1', 9000)]>: Closing connection. [Error 7] RequestTimedOutError: Request timed out after 125.0 ms
+2025-05-11 01:36:53,874 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:2181 <connecting> [IPv6 ('::1', 2181, 0, 0)]>: connecting to localhost:2181 [('::1', 2181, 0, 0) IPv6]
+2025-05-11 01:36:53,884 - ERROR - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:2181 <checking_api_versions_recv> [IPv6 ('::1', 2181, 0, 0)]>: socket disconnected
+2025-05-11 01:36:53,884 - ERROR - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:2181 <checking_api_versions_recv> [IPv6 ('::1', 2181, 0, 0)]>: Closing connection. KafkaConnectionError: socket disconnected
+2025-05-11 01:36:53,884 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:2181 <connecting> [IPv4 ('127.0.0.1', 2181)]>: connecting to localhost:2181 [('127.0.0.1', 2181) IPv4]
+2025-05-11 01:36:53,887 - ERROR - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:2181 <checking_api_versions_recv> [IPv4 ('127.0.0.1', 2181)]>: socket disconnected
+2025-05-11 01:36:53,888 - ERROR - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:2181 <checking_api_versions_recv> [IPv4 ('127.0.0.1', 2181)]>: Closing connection. KafkaConnectionError: socket disconnected
+2025-05-11 01:36:53,888 - WARNING - No node available during check_version; sleeping 0.04 secs
+2025-05-11 01:36:53,933 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:2181 <connecting> [IPv6 ('::1', 2181, 0, 0)]>: connecting to localhost:2181 [('::1', 2181, 0, 0) IPv6]
+2025-05-11 01:36:53,936 - ERROR - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:2181 <checking_api_versions_recv> [IPv6 ('::1', 2181, 0, 0)]>: socket disconnected
+2025-05-11 01:36:53,937 - ERROR - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:2181 <checking_api_versions_recv> [IPv6 ('::1', 2181, 0, 0)]>: Closing connection. KafkaConnectionError: socket disconnected
+2025-05-11 01:36:53,937 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:2181 <connecting> [IPv4 ('127.0.0.1', 2181)]>: connecting to localhost:2181 [('127.0.0.1', 2181) IPv4]
+2025-05-11 01:36:53,941 - ERROR - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:2181 <checking_api_versions_recv> [IPv4 ('127.0.0.1', 2181)]>: socket disconnected
+2025-05-11 01:36:53,941 - ERROR - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:2181 <checking_api_versions_recv> [IPv4 ('127.0.0.1', 2181)]>: Closing connection. KafkaConnectionError: socket disconnected
+2025-05-11 01:36:53,941 - WARNING - No node available during check_version; sleeping 0.09 secs
+2025-05-11 01:36:54,034 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:2181 <connecting> [IPv6 ('::1', 2181, 0, 0)]>: connecting to localhost:2181 [('::1', 2181, 0, 0) IPv6]
+2025-05-11 01:36:54,037 - ERROR - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:2181 <checking_api_versions_recv> [IPv6 ('::1', 2181, 0, 0)]>: socket disconnected
+2025-05-11 01:36:54,037 - ERROR - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:2181 <checking_api_versions_recv> [IPv6 ('::1', 2181, 0, 0)]>: Closing connection. KafkaConnectionError: socket disconnected
+2025-05-11 01:36:54,037 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:2181 <connecting> [IPv4 ('127.0.0.1', 2181)]>: connecting to localhost:2181 [('127.0.0.1', 2181) IPv4]
+2025-05-11 01:36:54,041 - ERROR - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:2181 <checking_api_versions_recv> [IPv4 ('127.0.0.1', 2181)]>: socket disconnected
+2025-05-11 01:36:54,041 - ERROR - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:2181 <checking_api_versions_recv> [IPv4 ('127.0.0.1', 2181)]>: Closing connection. KafkaConnectionError: socket disconnected
+2025-05-11 01:36:54,041 - WARNING - No node available during check_version; sleeping 0.16 secs
+2025-05-11 01:36:54,203 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:2181 <connecting> [IPv6 ('::1', 2181, 0, 0)]>: connecting to localhost:2181 [('::1', 2181, 0, 0) IPv6]
+2025-05-11 01:36:54,204 - ERROR - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:2181 <checking_api_versions_send> [IPv6 ('::1', 2181, 0, 0)]>: Closing connection. KafkaConnectionError: Unable to determine broker version.
+2025-05-11 01:36:54,204 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:2181 <connecting> [IPv4 ('127.0.0.1', 2181)]>: connecting to localhost:2181 [('127.0.0.1', 2181) IPv4]
+2025-05-11 01:36:54,223 - ERROR - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:2181 <checking_api_versions_send> [IPv4 ('127.0.0.1', 2181)]>: Closing connection. KafkaConnectionError: Unable to determine broker version.
+2025-05-11 01:36:54,223 - WARNING - No node available during check_version; sleeping 0.43 secs
+2025-05-11 01:36:54,651 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:2181 <connecting> [IPv6 ('::1', 2181, 0, 0)]>: connecting to localhost:2181 [('::1', 2181, 0, 0) IPv6]
+2025-05-11 01:36:54,653 - ERROR - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:2181 <checking_api_versions_send> [IPv6 ('::1', 2181, 0, 0)]>: Closing connection. KafkaConnectionError: Unable to determine broker version.
+2025-05-11 01:36:54,653 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:2181 <connecting> [IPv4 ('127.0.0.1', 2181)]>: connecting to localhost:2181 [('127.0.0.1', 2181) IPv4]
+2025-05-11 01:36:54,655 - ERROR - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:2181 <checking_api_versions_send> [IPv4 ('127.0.0.1', 2181)]>: Closing connection. KafkaConnectionError: Unable to determine broker version.
+2025-05-11 01:36:54,655 - WARNING - No node available during check_version; sleeping 0.70 secs
+2025-05-11 01:36:55,354 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:2181 <connecting> [IPv6 ('::1', 2181, 0, 0)]>: connecting to localhost:2181 [('::1', 2181, 0, 0) IPv6]
+2025-05-11 01:36:55,355 - ERROR - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:2181 <checking_api_versions_send> [IPv6 ('::1', 2181, 0, 0)]>: Closing connection. KafkaConnectionError: Unable to determine broker version.
+2025-05-11 01:36:55,356 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:2181 <connecting> [IPv4 ('127.0.0.1', 2181)]>: connecting to localhost:2181 [('127.0.0.1', 2181) IPv4]
+2025-05-11 01:36:55,357 - ERROR - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:2181 <checking_api_versions_send> [IPv4 ('127.0.0.1', 2181)]>: Closing connection. KafkaConnectionError: Unable to determine broker version.
+2025-05-11 01:36:55,358 - WARNING - No node available during check_version; sleeping 0.52 secs
+2025-05-11 01:37:12,622 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-11 01:37:12,641 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <checking_api_versions_recv> [IPv6 ('::1', 9092, 0, 0)]>: Broker version identified as 2.6
+2025-05-11 01:37:12,641 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2025-05-11 01:37:12,641 - INFO - Updating subscribed topics to: ('new-product-topic',)
+2025-05-11 01:37:12,665 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=0 host=USMGLY59BX.pwcglb.com:9092 <connecting> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: connecting to USMGLY59BX.pwcglb.com:9092 [('fe80::507a:af30:7047:9015', 9092, 0, 14) IPv6]
+2025-05-11 01:37:12,667 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=0 host=USMGLY59BX.pwcglb.com:9092 <connected> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: Connection complete.
+2025-05-11 01:37:12,667 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2025-05-11 01:37:12,780 - INFO - Coordinator for group/feedback-group is BrokerMetadata(nodeId='coordinator-0', host='USMGLY59BX.pwcglb.com', port=9092, rack=None)
+2025-05-11 01:37:12,780 - INFO - Discovered coordinator coordinator-0 for group feedback-group
+2025-05-11 01:37:12,781 - INFO - Starting new heartbeat thread
+2025-05-11 01:37:12,783 - INFO - Revoking previously assigned partitions set() for group feedback-group
+2025-05-11 01:37:12,785 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=coordinator-0 host=USMGLY59BX.pwcglb.com:9092 <connecting> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: connecting to USMGLY59BX.pwcglb.com:9092 [('fe80::507a:af30:7047:9015', 9092, 0, 14) IPv6]
+2025-05-11 01:37:12,786 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=coordinator-0 host=USMGLY59BX.pwcglb.com:9092 <connected> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: Connection complete.
+2025-05-11 01:37:12,887 - INFO - (Re-)joining group feedback-group
+2025-05-11 01:37:12,898 - INFO - (Re-)joining group feedback-group
+2025-05-11 01:37:12,910 - INFO - Elected group leader -- performing partition assignments using range
+2025-05-11 01:37:12,937 - INFO - Successfully joined group feedback-group with generation 1
+2025-05-11 01:37:12,938 - INFO - Updated partition assignment: [TopicPartition(topic='new-product-topic', partition=0)]
+2025-05-11 01:37:12,938 - INFO - Setting newly assigned partitions {TopicPartition(topic='new-product-topic', partition=0)} for group feedback-group
+2025-05-11 01:37:12,986 - INFO - Resetting offset for partition TopicPartition(topic='new-product-topic', partition=0) to offset 0.
+2025-05-11 03:01:53,245 - INFO - Stopping heartbeat thread
+2025-05-11 03:02:12,964 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-11 03:02:12,971 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <checking_api_versions_recv> [IPv6 ('::1', 9092, 0, 0)]>: Broker version identified as 2.6
+2025-05-11 03:02:12,971 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2025-05-11 03:02:12,972 - INFO - Updating subscribed topics to: ('new-product-topic',)
+2025-05-11 03:02:12,978 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=0 host=USMGLY59BX.pwcglb.com:9092 <connecting> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: connecting to USMGLY59BX.pwcglb.com:9092 [('fe80::507a:af30:7047:9015', 9092, 0, 14) IPv6]
+2025-05-11 03:02:12,979 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=0 host=USMGLY59BX.pwcglb.com:9092 <connected> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: Connection complete.
+2025-05-11 03:02:12,980 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2025-05-11 03:02:13,082 - INFO - Coordinator for group/feedback-group is BrokerMetadata(nodeId='coordinator-0', host='USMGLY59BX.pwcglb.com', port=9092, rack=None)
+2025-05-11 03:02:13,083 - INFO - Discovered coordinator coordinator-0 for group feedback-group
+2025-05-11 03:02:13,083 - INFO - Starting new heartbeat thread
+2025-05-11 03:02:13,084 - INFO - Revoking previously assigned partitions set() for group feedback-group
+2025-05-11 03:02:13,085 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=coordinator-0 host=USMGLY59BX.pwcglb.com:9092 <connecting> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: connecting to USMGLY59BX.pwcglb.com:9092 [('fe80::507a:af30:7047:9015', 9092, 0, 14) IPv6]
+2025-05-11 03:02:13,086 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=coordinator-0 host=USMGLY59BX.pwcglb.com:9092 <connected> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: Connection complete.
+2025-05-11 03:02:13,257 - INFO - Stopping heartbeat thread
+2025-05-11 03:02:24,951 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-11 03:02:24,956 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <checking_api_versions_recv> [IPv6 ('::1', 9092, 0, 0)]>: Broker version identified as 2.6
+2025-05-11 03:02:24,957 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2025-05-11 03:02:24,958 - INFO - Updating subscribed topics to: ('new-product-topic',)
+2025-05-11 03:02:24,968 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=0 host=USMGLY59BX.pwcglb.com:9092 <connecting> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: connecting to USMGLY59BX.pwcglb.com:9092 [('fe80::507a:af30:7047:9015', 9092, 0, 14) IPv6]
+2025-05-11 03:02:24,970 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=0 host=USMGLY59BX.pwcglb.com:9092 <connected> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: Connection complete.
+2025-05-11 03:02:24,970 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2025-05-11 03:02:25,075 - INFO - Coordinator for group/feedback-group is BrokerMetadata(nodeId='coordinator-0', host='USMGLY59BX.pwcglb.com', port=9092, rack=None)
+2025-05-11 03:02:25,076 - INFO - Discovered coordinator coordinator-0 for group feedback-group
+2025-05-11 03:02:25,076 - INFO - Starting new heartbeat thread
+2025-05-11 03:02:25,077 - INFO - Revoking previously assigned partitions set() for group feedback-group
+2025-05-11 03:02:25,079 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=coordinator-0 host=USMGLY59BX.pwcglb.com:9092 <connecting> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: connecting to USMGLY59BX.pwcglb.com:9092 [('fe80::507a:af30:7047:9015', 9092, 0, 14) IPv6]
+2025-05-11 03:02:25,081 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=coordinator-0 host=USMGLY59BX.pwcglb.com:9092 <connected> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: Connection complete.
+2025-05-11 03:02:25,182 - INFO - (Re-)joining group feedback-group
+2025-05-11 03:02:25,188 - INFO - (Re-)joining group feedback-group
+2025-05-11 03:02:25,196 - INFO - Elected group leader -- performing partition assignments using range
+2025-05-11 03:02:25,202 - INFO - Successfully joined group feedback-group with generation 3
+2025-05-11 03:02:25,203 - INFO - Updated partition assignment: [TopicPartition(topic='new-product-topic', partition=0)]
+2025-05-11 03:02:25,204 - INFO - Setting newly assigned partitions {TopicPartition(topic='new-product-topic', partition=0)} for group feedback-group
+2025-05-11 03:03:46,581 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-11 03:03:46,587 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <checking_api_versions_recv> [IPv6 ('::1', 9092, 0, 0)]>: Broker version identified as 2.6
+2025-05-11 03:03:46,587 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2025-05-11 03:03:46,589 - INFO - Updating subscribed topics to: ('new-product-topic',)
+2025-05-11 03:03:46,597 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=0 host=USMGLY59BX.pwcglb.com:9092 <connecting> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: connecting to USMGLY59BX.pwcglb.com:9092 [('fe80::507a:af30:7047:9015', 9092, 0, 14) IPv6]
+2025-05-11 03:03:46,600 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=0 host=USMGLY59BX.pwcglb.com:9092 <connected> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: Connection complete.
+2025-05-11 03:03:46,600 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2025-05-11 03:03:46,705 - INFO - Coordinator for group/feedback-group is BrokerMetadata(nodeId='coordinator-0', host='USMGLY59BX.pwcglb.com', port=9092, rack=None)
+2025-05-11 03:03:46,705 - INFO - Discovered coordinator coordinator-0 for group feedback-group
+2025-05-11 03:03:46,706 - INFO - Starting new heartbeat thread
+2025-05-11 03:03:46,708 - INFO - Revoking previously assigned partitions set() for group feedback-group
+2025-05-11 03:03:46,710 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=coordinator-0 host=USMGLY59BX.pwcglb.com:9092 <connecting> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: connecting to USMGLY59BX.pwcglb.com:9092 [('fe80::507a:af30:7047:9015', 9092, 0, 14) IPv6]
+2025-05-11 03:03:46,712 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=coordinator-0 host=USMGLY59BX.pwcglb.com:9092 <connected> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: Connection complete.
+2025-05-11 03:03:46,813 - INFO - (Re-)joining group feedback-group
+2025-05-11 03:03:46,819 - INFO - (Re-)joining group feedback-group
+2025-05-11 03:03:46,826 - INFO - Elected group leader -- performing partition assignments using range
+2025-05-11 03:03:46,832 - INFO - Successfully joined group feedback-group with generation 5
+2025-05-11 03:03:46,833 - INFO - Updated partition assignment: [TopicPartition(topic='new-product-topic', partition=0)]
+2025-05-11 03:03:46,834 - INFO - Setting newly assigned partitions {TopicPartition(topic='new-product-topic', partition=0)} for group feedback-group
+2025-05-11 03:04:32,628 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-11 03:04:32,628 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-11 03:04:32,632 - INFO -  * Restarting with stat
+2025-05-11 03:04:39,038 - WARNING -  * Debugger is active!
+2025-05-11 03:04:39,042 - INFO -  * Debugger PIN: 265-654-003
+2025-05-11 03:04:39,091 - INFO - GET /feedback/all - 127.0.0.1
+2025-05-11 03:04:39,113 - INFO - 127.0.0.1 - - [11/May/2025 03:04:39] "GET /feedback/all HTTP/1.1" 200 -
+2025-05-11 03:04:39,299 - INFO - GET /favicon.ico - 127.0.0.1
+2025-05-11 03:04:39,301 - INFO - 127.0.0.1 - - [11/May/2025 03:04:39] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-11 03:05:03,117 - INFO - GET /feedback/all - 127.0.0.1
+2025-05-11 03:05:03,124 - INFO - 127.0.0.1 - - [11/May/2025 03:05:03] "GET /feedback/all HTTP/1.1" 200 -
+2025-05-11 03:05:03,368 - INFO - GET /feedback/all - 127.0.0.1
+2025-05-11 03:05:03,375 - INFO - 127.0.0.1 - - [11/May/2025 03:05:03] "GET /feedback/all HTTP/1.1" 200 -
+2025-05-11 03:05:24,667 - INFO - OPTIONS /feedback/submit - 127.0.0.1
+2025-05-11 03:05:24,668 - INFO - 127.0.0.1 - - [11/May/2025 03:05:24] "OPTIONS /feedback/submit HTTP/1.1" 200 -
+2025-05-11 03:05:24,987 - INFO - POST /feedback/submit - 127.0.0.1
+2025-05-11 03:05:25,009 - INFO - Feedback submitted by user U200 for product 2
+2025-05-11 03:05:25,011 - INFO - 127.0.0.1 - - [11/May/2025 03:05:25] "[35m[1mPOST /feedback/submit HTTP/1.1[0m" 201 -
+2025-05-11 03:05:25,253 - INFO - GET /feedback/all - 127.0.0.1
+2025-05-11 03:05:25,259 - INFO - 127.0.0.1 - - [11/May/2025 03:05:25] "GET /feedback/all HTTP/1.1" 200 -
+2025-05-11 03:06:04,253 - INFO - GET /product/2 - 127.0.0.1
+2025-05-11 03:06:04,255 - INFO - 127.0.0.1 - - [11/May/2025 03:06:04] "[33mGET /product/2 HTTP/1.1[0m" 404 -
+2025-05-11 03:06:44,857 - INFO - GET /product/P01 - 127.0.0.1
+2025-05-11 03:06:44,858 - INFO - 127.0.0.1 - - [11/May/2025 03:06:44] "[33mGET /product/P01 HTTP/1.1[0m" 404 -
+2025-05-11 03:07:23,493 - INFO - GET /feedback/all - 127.0.0.1
+2025-05-11 03:07:23,502 - INFO - 127.0.0.1 - - [11/May/2025 03:07:23] "GET /feedback/all HTTP/1.1" 200 -
+2025-05-11 15:01:43,064 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-11 15:01:43,066 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-11 15:01:43,070 - INFO -  * Restarting with stat
+2025-05-11 15:01:58,040 - WARNING -  * Debugger is active!
+2025-05-11 15:01:58,045 - INFO -  * Debugger PIN: 265-654-003
+2025-05-11 15:02:27,596 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-11 15:02:27,596 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-11 15:02:27,599 - INFO -  * Restarting with stat
+2025-05-11 15:02:37,091 - WARNING -  * Debugger is active!
+2025-05-11 15:02:37,094 - INFO -  * Debugger PIN: 265-654-003
+2025-05-11 15:03:04,675 - INFO - GET /feedback/eda - 127.0.0.1
+2025-05-11 15:03:04,734 - INFO - 127.0.0.1 - - [11/May/2025 15:03:04] "GET /feedback/eda HTTP/1.1" 200 -
+2025-05-11 15:03:04,937 - INFO - GET /feedback/eda - 127.0.0.1
+2025-05-11 15:03:04,949 - INFO - 127.0.0.1 - - [11/May/2025 15:03:04] "GET /feedback/eda HTTP/1.1" 200 -
+2025-05-11 15:03:36,681 - INFO - GET /feedback/all - 127.0.0.1
+2025-05-11 15:03:36,686 - INFO - 127.0.0.1 - - [11/May/2025 15:03:36] "GET /feedback/all HTTP/1.1" 200 -
+2025-05-11 15:03:36,993 - INFO - GET /feedback/all - 127.0.0.1
+2025-05-11 15:03:36,996 - INFO - 127.0.0.1 - - [11/May/2025 15:03:36] "GET /feedback/all HTTP/1.1" 200 -
+2025-05-11 15:32:54,455 - INFO - GET /product/2 - 127.0.0.1
+2025-05-11 15:32:54,456 - INFO - 127.0.0.1 - - [11/May/2025 15:32:54] "[33mGET /product/2 HTTP/1.1[0m" 404 -
+2025-05-11 15:33:34,651 - INFO - GET /product/2 - 127.0.0.1
+2025-05-11 15:33:34,652 - INFO - 127.0.0.1 - - [11/May/2025 15:33:34] "[33mGET /product/2 HTTP/1.1[0m" 404 -
+2025-05-11 15:34:34,762 - INFO - GET /product/2 - 127.0.0.1
+2025-05-11 15:34:34,763 - INFO - 127.0.0.1 - - [11/May/2025 15:34:34] "[33mGET /product/2 HTTP/1.1[0m" 404 -
+2025-05-11 15:34:47,968 - INFO - GET /product/2 - 127.0.0.1
+2025-05-11 15:34:47,969 - INFO - 127.0.0.1 - - [11/May/2025 15:34:47] "[33mGET /product/2 HTTP/1.1[0m" 404 -
+2025-05-11 15:34:59,522 - INFO - GET /product/2 - 127.0.0.1
+2025-05-11 15:34:59,523 - INFO - 127.0.0.1 - - [11/May/2025 15:34:59] "[33mGET /product/2 HTTP/1.1[0m" 404 -
+2025-05-11 15:34:59,630 - INFO - GET /favicon.ico - 127.0.0.1
+2025-05-11 15:34:59,631 - INFO - 127.0.0.1 - - [11/May/2025 15:34:59] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-11 15:35:04,915 - INFO - GET /product/U001 - 127.0.0.1
+2025-05-11 15:35:04,916 - INFO - 127.0.0.1 - - [11/May/2025 15:35:04] "[33mGET /product/U001 HTTP/1.1[0m" 404 -
+2025-05-11 15:35:17,485 - INFO - GET /feedback/all - 127.0.0.1
+2025-05-11 15:35:17,489 - INFO - 127.0.0.1 - - [11/May/2025 15:35:17] "GET /feedback/all HTTP/1.1" 200 -
+2025-05-11 15:35:17,738 - INFO - GET /feedback/all - 127.0.0.1
+2025-05-11 15:35:17,740 - INFO - 127.0.0.1 - - [11/May/2025 15:35:17] "GET /feedback/all HTTP/1.1" 200 -
+2025-05-11 15:35:47,021 - INFO - GET /product/U200 - 127.0.0.1
+2025-05-11 15:35:47,022 - INFO - 127.0.0.1 - - [11/May/2025 15:35:47] "[33mGET /product/U200 HTTP/1.1[0m" 404 -
+2025-05-11 15:35:49,528 - INFO - GET /product/2 - 127.0.0.1
+2025-05-11 15:35:49,529 - INFO - 127.0.0.1 - - [11/May/2025 15:35:49] "[33mGET /product/2 HTTP/1.1[0m" 404 -
+2025-05-11 15:36:01,722 - INFO - OPTIONS /feedback/submit - 127.0.0.1
+2025-05-11 15:36:01,722 - INFO - 127.0.0.1 - - [11/May/2025 15:36:01] "OPTIONS /feedback/submit HTTP/1.1" 200 -
+2025-05-11 15:36:02,042 - INFO - POST /feedback/submit - 127.0.0.1
+2025-05-11 15:36:02,062 - INFO - Feedback submitted by user U200 for product 2
+2025-05-11 15:36:02,063 - INFO - 127.0.0.1 - - [11/May/2025 15:36:02] "[35m[1mPOST /feedback/submit HTTP/1.1[0m" 201 -
+2025-05-11 15:36:02,295 - INFO - GET /feedback/all - 127.0.0.1
+2025-05-11 15:36:02,299 - INFO - 127.0.0.1 - - [11/May/2025 15:36:02] "GET /feedback/all HTTP/1.1" 200 -
+2025-05-11 15:36:10,614 - INFO - GET /product/2 - 127.0.0.1
+2025-05-11 15:36:10,615 - INFO - 127.0.0.1 - - [11/May/2025 15:36:10] "[33mGET /product/2 HTTP/1.1[0m" 404 -
+2025-05-11 15:36:14,747 - INFO - GET /product/2 - 127.0.0.1
+2025-05-11 15:36:14,748 - INFO - 127.0.0.1 - - [11/May/2025 15:36:14] "[33mGET /product/2 HTTP/1.1[0m" 404 -
+2025-05-11 15:37:27,292 - INFO - GET /product/2 - 127.0.0.1
+2025-05-11 15:37:27,293 - INFO - 127.0.0.1 - - [11/May/2025 15:37:27] "[33mGET /product/2 HTTP/1.1[0m" 404 -
+2025-05-11 15:37:37,716 - INFO - GET / - 127.0.0.1
+2025-05-11 15:37:37,853 - INFO - 127.0.0.1 - - [11/May/2025 15:37:37] "GET / HTTP/1.1" 200 -
+2025-05-11 15:37:37,931 - INFO - GET /swaggerui/droid-sans.css - 127.0.0.1
+2025-05-11 15:37:37,986 - INFO - GET /swaggerui/swagger-ui.css - 127.0.0.1
+2025-05-11 15:37:38,137 - INFO - 127.0.0.1 - - [11/May/2025 15:37:38] "GET /swaggerui/droid-sans.css HTTP/1.1" 200 -
+2025-05-11 15:37:38,177 - INFO - 127.0.0.1 - - [11/May/2025 15:37:38] "GET /swaggerui/swagger-ui.css HTTP/1.1" 200 -
+2025-05-11 15:37:38,238 - INFO - GET /swaggerui/swagger-ui-bundle.js - 127.0.0.1
+2025-05-11 15:37:38,240 - INFO - GET /swaggerui/swagger-ui-standalone-preset.js - 127.0.0.1
+2025-05-11 15:37:38,286 - INFO - 127.0.0.1 - - [11/May/2025 15:37:38] "GET /swaggerui/swagger-ui-bundle.js HTTP/1.1" 200 -
+2025-05-11 15:37:38,480 - INFO - 127.0.0.1 - - [11/May/2025 15:37:38] "GET /swaggerui/swagger-ui-standalone-preset.js HTTP/1.1" 200 -
+2025-05-11 15:37:38,866 - INFO - GET /swagger.json - 127.0.0.1
+2025-05-11 15:37:38,869 - INFO - 127.0.0.1 - - [11/May/2025 15:37:38] "GET /swagger.json HTTP/1.1" 200 -
+2025-05-11 15:37:46,618 - INFO - GET /feedback/all - 127.0.0.1
+2025-05-11 15:37:46,623 - INFO - 127.0.0.1 - - [11/May/2025 15:37:46] "GET /feedback/all HTTP/1.1" 200 -
+2025-05-11 15:38:21,972 - INFO - GET /feedback/product/2 - 127.0.0.1
+2025-05-11 15:38:21,975 - INFO - 127.0.0.1 - - [11/May/2025 15:38:21] "GET /feedback/product/2 HTTP/1.1" 200 -
+2025-05-11 15:38:46,406 - INFO - GET /feedback/product/2 - 127.0.0.1
+2025-05-11 15:38:46,410 - INFO - 127.0.0.1 - - [11/May/2025 15:38:46] "GET /feedback/product/2 HTTP/1.1" 200 -
+2025-05-11 15:38:49,186 - INFO - GET /feedback/product/2 - 127.0.0.1
+2025-05-11 15:38:49,188 - INFO - 127.0.0.1 - - [11/May/2025 15:38:49] "GET /feedback/product/2 HTTP/1.1" 200 -
+2025-05-11 15:40:55,101 - INFO - GET /feedback/product/2 - 127.0.0.1
+2025-05-11 15:40:55,104 - INFO - 127.0.0.1 - - [11/May/2025 15:40:55] "GET /feedback/product/2 HTTP/1.1" 200 -
+2025-05-11 15:41:33,017 - INFO - GET /feedback/product/2 - 127.0.0.1
+2025-05-11 15:41:33,019 - INFO - 127.0.0.1 - - [11/May/2025 15:41:33] "GET /feedback/product/2 HTTP/1.1" 200 -
+2025-05-11 15:42:36,260 - INFO - GET /feedback/product/2 - 127.0.0.1
+2025-05-11 15:42:36,265 - INFO - 127.0.0.1 - - [11/May/2025 15:42:36] "GET /feedback/product/2 HTTP/1.1" 200 -
+2025-05-11 15:42:44,427 - INFO - GET /feedback/product/2 - 127.0.0.1
+2025-05-11 15:42:44,429 - INFO - 127.0.0.1 - - [11/May/2025 15:42:44] "GET /feedback/product/2 HTTP/1.1" 200 -
+2025-05-11 15:44:14,564 - INFO - GET /feedback/product/2 - 127.0.0.1
+2025-05-11 15:44:14,566 - INFO - 127.0.0.1 - - [11/May/2025 15:44:14] "GET /feedback/product/2 HTTP/1.1" 200 -
+2025-05-11 15:44:22,137 - INFO - GET /feedback/product/2 - 127.0.0.1
+2025-05-11 15:44:22,139 - INFO - 127.0.0.1 - - [11/May/2025 15:44:22] "GET /feedback/product/2 HTTP/1.1" 200 -
+2025-05-11 15:44:35,614 - INFO - GET /feedback/product/2 - 127.0.0.1
+2025-05-11 15:44:35,616 - INFO - 127.0.0.1 - - [11/May/2025 15:44:35] "GET /feedback/product/2 HTTP/1.1" 200 -
+2025-05-11 15:44:56,850 - INFO - GET /feedback/product/2 - 127.0.0.1
+2025-05-11 15:44:56,852 - INFO - 127.0.0.1 - - [11/May/2025 15:44:56] "GET /feedback/product/2 HTTP/1.1" 200 -
+2025-05-11 15:45:06,414 - INFO - GET /feedback/product/2 - 127.0.0.1
+2025-05-11 15:45:06,416 - INFO - 127.0.0.1 - - [11/May/2025 15:45:06] "GET /feedback/product/2 HTTP/1.1" 200 -
+2025-05-11 15:46:20,146 - INFO - GET /feedback/product/2 - 127.0.0.1
+2025-05-11 15:46:20,149 - INFO - 127.0.0.1 - - [11/May/2025 15:46:20] "GET /feedback/product/2 HTTP/1.1" 200 -
+2025-05-11 15:46:23,096 - INFO - GET /feedback/product/2 - 127.0.0.1
+2025-05-11 15:46:23,099 - INFO - 127.0.0.1 - - [11/May/2025 15:46:23] "GET /feedback/product/2 HTTP/1.1" 200 -
+2025-05-11 15:47:39,484 - INFO - GET /feedback/product/2 - 127.0.0.1
+2025-05-11 15:47:39,487 - INFO - 127.0.0.1 - - [11/May/2025 15:47:39] "GET /feedback/product/2 HTTP/1.1" 200 -
+2025-05-11 15:49:33,120 - INFO - GET /feedback/product/3 - 127.0.0.1
+2025-05-11 15:49:33,122 - INFO - 127.0.0.1 - - [11/May/2025 15:49:33] "GET /feedback/product/3 HTTP/1.1" 200 -
+2025-05-11 15:49:47,737 - INFO - GET /feedback/product/3 - 127.0.0.1
+2025-05-11 15:49:47,739 - INFO - 127.0.0.1 - - [11/May/2025 15:49:47] "GET /feedback/product/3 HTTP/1.1" 200 -
+2025-05-11 15:49:55,035 - INFO - GET /feedback/product/3 - 127.0.0.1
+2025-05-11 15:49:55,037 - INFO - 127.0.0.1 - - [11/May/2025 15:49:55] "GET /feedback/product/3 HTTP/1.1" 200 -
+2025-05-11 15:50:00,591 - INFO - GET /feedback/product/2 - 127.0.0.1
+2025-05-11 15:50:00,594 - INFO - 127.0.0.1 - - [11/May/2025 15:50:00] "GET /feedback/product/2 HTTP/1.1" 200 -
+2025-05-11 15:50:07,893 - INFO - GET /feedback/product/3 - 127.0.0.1
+2025-05-11 15:50:07,894 - INFO - 127.0.0.1 - - [11/May/2025 15:50:07] "GET /feedback/product/3 HTTP/1.1" 200 -
+2025-05-11 15:50:23,278 - INFO - OPTIONS /feedback/submit - 127.0.0.1
+2025-05-11 15:50:23,279 - INFO - 127.0.0.1 - - [11/May/2025 15:50:23] "OPTIONS /feedback/submit HTTP/1.1" 200 -
+2025-05-11 15:50:23,590 - INFO - POST /feedback/submit - 127.0.0.1
+2025-05-11 15:50:23,614 - INFO - Feedback submitted by user Snekha for product 3
+2025-05-11 15:50:23,615 - INFO - 127.0.0.1 - - [11/May/2025 15:50:23] "[35m[1mPOST /feedback/submit HTTP/1.1[0m" 201 -
+2025-05-11 15:50:23,852 - INFO - GET /feedback/all - 127.0.0.1
+2025-05-11 15:50:23,858 - INFO - 127.0.0.1 - - [11/May/2025 15:50:23] "GET /feedback/all HTTP/1.1" 200 -
+2025-05-11 15:50:27,063 - INFO - GET /feedback/product/3 - 127.0.0.1
+2025-05-11 15:50:27,066 - INFO - 127.0.0.1 - - [11/May/2025 15:50:27] "GET /feedback/product/3 HTTP/1.1" 200 -
+2025-05-11 15:52:35,134 - INFO -  * Detected change in 'C:\\Users\\ssnekha001\\Desktop\\Capstone\\Feedback-service\\app.py', reloading
+2025-05-11 15:52:35,588 - INFO -  * Restarting with stat
+2025-05-11 15:52:50,737 - WARNING -  * Debugger is active!
+2025-05-11 15:52:50,744 - INFO -  * Debugger PIN: 265-654-003
+2025-05-11 15:52:57,833 - INFO -  * Detected change in 'C:\\Users\\ssnekha001\\Desktop\\Capstone\\Feedback-service\\kafka_consumer.py', reloading
+2025-05-11 15:52:58,390 - INFO -  * Restarting with stat
+2025-05-11 15:53:04,974 - WARNING -  * Debugger is active!
+2025-05-11 15:53:04,985 - INFO -  * Debugger PIN: 265-654-003
+2025-05-11 15:53:17,097 - INFO -  * Detected change in 'C:\\Users\\ssnekha001\\Desktop\\Capstone\\Feedback-service\\app.py', reloading
+2025-05-11 15:53:17,583 - INFO -  * Restarting with stat
+2025-05-11 15:58:17,467 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-11 15:58:17,472 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <checking_api_versions_recv> [IPv6 ('::1', 9092, 0, 0)]>: Broker version identified as 2.6
+2025-05-11 15:58:17,472 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2025-05-11 15:58:17,473 - INFO - Updating subscribed topics to: ('new-product-topic',)
+2025-05-11 15:58:17,477 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=0 host=USMGLY59BX.pwcglb.com:9092 <connecting> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: connecting to USMGLY59BX.pwcglb.com:9092 [('fe80::507a:af30:7047:9015', 9092, 0, 14) IPv6]
+2025-05-11 15:58:17,478 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=0 host=USMGLY59BX.pwcglb.com:9092 <connected> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: Connection complete.
+2025-05-11 15:58:17,478 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2025-05-11 15:58:17,583 - INFO - Coordinator for group/feedback-group is BrokerMetadata(nodeId='coordinator-0', host='USMGLY59BX.pwcglb.com', port=9092, rack=None)
+2025-05-11 15:58:17,583 - INFO - Discovered coordinator coordinator-0 for group feedback-group
+2025-05-11 15:58:17,584 - INFO - Starting new heartbeat thread
+2025-05-11 15:58:17,600 - INFO - Revoking previously assigned partitions set() for group feedback-group
+2025-05-11 15:58:17,601 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=coordinator-0 host=USMGLY59BX.pwcglb.com:9092 <connecting> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: connecting to USMGLY59BX.pwcglb.com:9092 [('fe80::507a:af30:7047:9015', 9092, 0, 14) IPv6]
+2025-05-11 15:58:17,601 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=coordinator-0 host=USMGLY59BX.pwcglb.com:9092 <connected> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: Connection complete.
+2025-05-11 15:58:17,603 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-11 15:58:17,603 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-11 15:58:17,605 - INFO -  * Restarting with stat
+2025-05-11 15:58:17,702 - INFO - (Re-)joining group feedback-group
+2025-05-11 15:58:17,706 - INFO - (Re-)joining group feedback-group
+2025-05-11 15:58:17,710 - INFO - Elected group leader -- performing partition assignments using range
+2025-05-11 15:58:17,716 - INFO - Successfully joined group feedback-group with generation 7
+2025-05-11 15:58:17,716 - INFO - Updated partition assignment: [TopicPartition(topic='new-product-topic', partition=0)]
+2025-05-11 15:58:17,717 - INFO - Setting newly assigned partitions {TopicPartition(topic='new-product-topic', partition=0)} for group feedback-group
+2025-05-11 15:58:22,994 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-11 15:58:23,004 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <checking_api_versions_recv> [IPv6 ('::1', 9092, 0, 0)]>: Broker version identified as 2.6
+2025-05-11 15:58:23,004 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2025-05-11 15:58:23,006 - INFO - Updating subscribed topics to: ('new-product-topic',)
+2025-05-11 15:58:23,014 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=0 host=USMGLY59BX.pwcglb.com:9092 <connecting> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: connecting to USMGLY59BX.pwcglb.com:9092 [('fe80::507a:af30:7047:9015', 9092, 0, 14) IPv6]
+2025-05-11 15:58:23,016 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=0 host=USMGLY59BX.pwcglb.com:9092 <connected> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: Connection complete.
+2025-05-11 15:58:23,017 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2025-05-11 15:58:23,071 - WARNING -  * Debugger is active!
+2025-05-11 15:58:23,078 - INFO -  * Debugger PIN: 265-654-003
+2025-05-11 15:58:23,124 - INFO - Coordinator for group/feedback-group is BrokerMetadata(nodeId='coordinator-0', host='USMGLY59BX.pwcglb.com', port=9092, rack=None)
+2025-05-11 15:58:23,124 - INFO - Discovered coordinator coordinator-0 for group feedback-group
+2025-05-11 15:58:23,126 - INFO - Starting new heartbeat thread
+2025-05-11 15:58:23,128 - INFO - Revoking previously assigned partitions set() for group feedback-group
+2025-05-11 15:58:23,131 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=coordinator-0 host=USMGLY59BX.pwcglb.com:9092 <connecting> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: connecting to USMGLY59BX.pwcglb.com:9092 [('fe80::507a:af30:7047:9015', 9092, 0, 14) IPv6]
+2025-05-11 15:58:23,134 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=coordinator-0 host=USMGLY59BX.pwcglb.com:9092 <connected> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: Connection complete.
+2025-05-11 15:58:23,236 - INFO - (Re-)joining group feedback-group
+2025-05-11 15:58:23,241 - INFO - (Re-)joining group feedback-group
+2025-05-11 15:58:23,739 - WARNING - Heartbeat failed for group feedback-group because it is rebalancing
+2025-05-11 15:58:23,744 - INFO - Revoking previously assigned partitions {TopicPartition(topic='new-product-topic', partition=0)} for group feedback-group
+2025-05-11 15:58:23,744 - INFO - (Re-)joining group feedback-group
+2025-05-11 15:58:23,749 - INFO - Elected group leader -- performing partition assignments using range
+2025-05-11 15:58:23,756 - INFO - Successfully joined group feedback-group with generation 8
+2025-05-11 15:58:23,756 - INFO - Successfully joined group feedback-group with generation 8
+2025-05-11 15:58:23,756 - INFO - Updated partition assignment: []
+2025-05-11 15:58:23,757 - INFO - Setting newly assigned partitions set() for group feedback-group
+2025-05-11 15:58:23,757 - INFO - Updated partition assignment: [TopicPartition(topic='new-product-topic', partition=0)]
+2025-05-11 15:58:23,757 - INFO - Setting newly assigned partitions {TopicPartition(topic='new-product-topic', partition=0)} for group feedback-group
+2025-05-11 15:59:19,544 - INFO -  * Detected change in 'C:\\Users\\ssnekha001\\Desktop\\Capstone\\Feedback-service\\kafka_consumer.py', reloading
+2025-05-11 15:59:19,992 - INFO -  * Restarting with stat
+2025-05-11 15:59:25,406 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-11 15:59:25,410 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <checking_api_versions_recv> [IPv6 ('::1', 9092, 0, 0)]>: Broker version identified as 2.6
+2025-05-11 15:59:25,410 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2025-05-11 15:59:25,411 - INFO - Updating subscribed topics to: ('new-product-topic',)
+2025-05-11 15:59:25,416 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=0 host=USMGLY59BX.pwcglb.com:9092 <connecting> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: connecting to USMGLY59BX.pwcglb.com:9092 [('fe80::507a:af30:7047:9015', 9092, 0, 14) IPv6]
+2025-05-11 15:59:25,417 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=0 host=USMGLY59BX.pwcglb.com:9092 <connected> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: Connection complete.
+2025-05-11 15:59:25,417 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2025-05-11 15:59:25,457 - WARNING -  * Debugger is active!
+2025-05-11 15:59:25,460 - INFO -  * Debugger PIN: 265-654-003
+2025-05-11 15:59:25,522 - INFO - Coordinator for group/feedback-group is BrokerMetadata(nodeId='coordinator-0', host='USMGLY59BX.pwcglb.com', port=9092, rack=None)
+2025-05-11 15:59:25,522 - INFO - Discovered coordinator coordinator-0 for group feedback-group
+2025-05-11 15:59:25,523 - INFO - Starting new heartbeat thread
+2025-05-11 15:59:25,524 - INFO - Revoking previously assigned partitions set() for group feedback-group
+2025-05-11 15:59:25,525 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=coordinator-0 host=USMGLY59BX.pwcglb.com:9092 <connecting> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: connecting to USMGLY59BX.pwcglb.com:9092 [('fe80::507a:af30:7047:9015', 9092, 0, 14) IPv6]
+2025-05-11 15:59:25,526 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=coordinator-0 host=USMGLY59BX.pwcglb.com:9092 <connected> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: Connection complete.
+2025-05-11 15:59:25,627 - INFO - (Re-)joining group feedback-group
+2025-05-11 15:59:25,632 - INFO - (Re-)joining group feedback-group
+2025-05-11 15:59:27,620 - WARNING - Heartbeat failed for group feedback-group because it is rebalancing
+2025-05-11 15:59:30,680 - WARNING - Heartbeat failed for group feedback-group because it is rebalancing
+2025-05-11 15:59:33,746 - WARNING - Heartbeat failed for group feedback-group because it is rebalancing
+2025-05-11 15:59:36,815 - WARNING - Heartbeat failed for group feedback-group because it is rebalancing
+2025-05-11 15:59:39,899 - WARNING - Heartbeat failed for group feedback-group because it is rebalancing
+2025-05-11 15:59:42,965 - WARNING - Heartbeat failed for group feedback-group because it is rebalancing
+2025-05-11 15:59:46,031 - WARNING - Heartbeat failed for group feedback-group because it is rebalancing
+2025-05-11 15:59:49,086 - WARNING - Heartbeat failed for group feedback-group because it is rebalancing
+2025-05-11 15:59:52,140 - WARNING - Heartbeat failed for group feedback-group because it is rebalancing
+2025-05-11 15:59:55,214 - WARNING - Heartbeat failed for group feedback-group because it is rebalancing
+2025-05-11 15:59:58,285 - WARNING - Heartbeat failed for group feedback-group because it is rebalancing
+2025-05-11 16:00:01,365 - WARNING - Heartbeat failed for group feedback-group because it is rebalancing
+2025-05-11 16:00:04,437 - WARNING - Heartbeat failed for group feedback-group because it is rebalancing
+2025-05-11 16:00:07,500 - WARNING - Heartbeat failed for group feedback-group because it is rebalancing
+2025-05-11 16:00:10,575 - WARNING - Heartbeat failed for group feedback-group because it is rebalancing
+2025-05-11 16:00:13,647 - WARNING - Heartbeat failed for group feedback-group because it is rebalancing
+2025-05-11 16:00:16,722 - WARNING - Heartbeat failed for group feedback-group because it is rebalancing
+2025-05-11 16:00:19,784 - WARNING - Heartbeat failed for group feedback-group because it is rebalancing
+2025-05-11 16:00:22,849 - WARNING - Heartbeat failed for group feedback-group because it is rebalancing
+2025-05-11 16:00:25,918 - WARNING - Heartbeat failed for group feedback-group because it is rebalancing
+2025-05-11 16:00:28,990 - WARNING - Heartbeat failed for group feedback-group because it is rebalancing
+2025-05-11 16:00:32,053 - WARNING - Heartbeat failed for group feedback-group because it is rebalancing
+2025-05-11 16:00:35,117 - WARNING - Heartbeat failed for group feedback-group because it is rebalancing
+2025-05-11 16:00:38,180 - WARNING - Heartbeat failed for group feedback-group because it is rebalancing
+2025-05-11 16:00:41,227 - WARNING - Heartbeat failed for group feedback-group because it is rebalancing
+2025-05-11 16:00:44,282 - WARNING - Heartbeat failed for group feedback-group because it is rebalancing
+2025-05-11 16:00:47,356 - WARNING - Heartbeat failed for group feedback-group because it is rebalancing
+2025-05-11 16:00:50,411 - WARNING - Heartbeat failed for group feedback-group because it is rebalancing
+2025-05-11 16:00:53,462 - WARNING - Heartbeat failed for group feedback-group because it is rebalancing
+2025-05-11 16:00:56,517 - WARNING - Heartbeat failed for group feedback-group because it is rebalancing
+2025-05-11 16:00:59,573 - WARNING - Heartbeat failed for group feedback-group because it is rebalancing
+2025-05-11 16:01:02,638 - WARNING - Heartbeat failed for group feedback-group because it is rebalancing
+2025-05-11 16:01:05,712 - WARNING - Heartbeat failed for group feedback-group because it is rebalancing
+2025-05-11 16:01:08,785 - WARNING - Heartbeat failed for group feedback-group because it is rebalancing
+2025-05-11 16:01:11,845 - WARNING - Heartbeat failed for group feedback-group because it is rebalancing
+2025-05-11 16:01:14,912 - WARNING - Heartbeat failed for group feedback-group because it is rebalancing
+2025-05-11 16:01:17,971 - WARNING - Heartbeat failed for group feedback-group because it is rebalancing
+2025-05-11 16:01:18,587 - INFO - Stopping heartbeat thread
+2025-05-11 16:01:25,949 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-11 16:01:25,953 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <checking_api_versions_recv> [IPv6 ('::1', 9092, 0, 0)]>: Broker version identified as 2.6
+2025-05-11 16:01:25,953 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2025-05-11 16:01:25,954 - INFO - Updating subscribed topics to: ('new-product-topic',)
+2025-05-11 16:01:25,959 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=0 host=USMGLY59BX.pwcglb.com:9092 <connecting> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: connecting to USMGLY59BX.pwcglb.com:9092 [('fe80::507a:af30:7047:9015', 9092, 0, 14) IPv6]
+2025-05-11 16:01:25,959 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=0 host=USMGLY59BX.pwcglb.com:9092 <connected> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: Connection complete.
+2025-05-11 16:01:25,960 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2025-05-11 16:01:25,987 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-11 16:01:25,987 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-11 16:01:25,990 - INFO -  * Restarting with stat
+2025-05-11 16:01:26,064 - INFO - Coordinator for group/feedback-group is BrokerMetadata(nodeId='coordinator-0', host='USMGLY59BX.pwcglb.com', port=9092, rack=None)
+2025-05-11 16:01:26,064 - INFO - Discovered coordinator coordinator-0 for group feedback-group
+2025-05-11 16:01:26,064 - INFO - Starting new heartbeat thread
+2025-05-11 16:01:26,065 - INFO - Revoking previously assigned partitions set() for group feedback-group
+2025-05-11 16:01:26,067 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=coordinator-0 host=USMGLY59BX.pwcglb.com:9092 <connecting> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: connecting to USMGLY59BX.pwcglb.com:9092 [('fe80::507a:af30:7047:9015', 9092, 0, 14) IPv6]
+2025-05-11 16:01:26,068 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=coordinator-0 host=USMGLY59BX.pwcglb.com:9092 <connected> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: Connection complete.
+2025-05-11 16:01:26,168 - INFO - (Re-)joining group feedback-group
+2025-05-11 16:01:26,175 - INFO - (Re-)joining group feedback-group
+2025-05-11 16:01:31,043 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-11 16:01:31,047 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <checking_api_versions_recv> [IPv6 ('::1', 9092, 0, 0)]>: Broker version identified as 2.6
+2025-05-11 16:01:31,047 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2025-05-11 16:01:31,048 - INFO - Updating subscribed topics to: ('new-product-topic',)
+2025-05-11 16:01:31,056 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=0 host=USMGLY59BX.pwcglb.com:9092 <connecting> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: connecting to USMGLY59BX.pwcglb.com:9092 [('fe80::507a:af30:7047:9015', 9092, 0, 14) IPv6]
+2025-05-11 16:01:31,058 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=0 host=USMGLY59BX.pwcglb.com:9092 <connected> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: Connection complete.
+2025-05-11 16:01:31,059 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2025-05-11 16:01:31,101 - WARNING -  * Debugger is active!
+2025-05-11 16:01:31,107 - INFO -  * Debugger PIN: 265-654-003
+2025-05-11 16:01:31,163 - INFO - Coordinator for group/feedback-group is BrokerMetadata(nodeId='coordinator-0', host='USMGLY59BX.pwcglb.com', port=9092, rack=None)
+2025-05-11 16:01:31,163 - INFO - Discovered coordinator coordinator-0 for group feedback-group
+2025-05-11 16:01:31,163 - INFO - Starting new heartbeat thread
+2025-05-11 16:01:31,164 - INFO - Revoking previously assigned partitions set() for group feedback-group
+2025-05-11 16:01:31,166 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=coordinator-0 host=USMGLY59BX.pwcglb.com:9092 <connecting> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: connecting to USMGLY59BX.pwcglb.com:9092 [('fe80::507a:af30:7047:9015', 9092, 0, 14) IPv6]
+2025-05-11 16:01:31,167 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=coordinator-0 host=USMGLY59BX.pwcglb.com:9092 <connected> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: Connection complete.
+2025-05-11 16:01:31,267 - INFO - (Re-)joining group feedback-group
+2025-05-11 16:01:31,270 - INFO - (Re-)joining group feedback-group
+2025-05-11 16:01:31,273 - INFO - (Re-)joining group feedback-group
+2025-05-11 16:01:37,889 - INFO - Elected group leader -- performing partition assignments using range
+2025-05-11 16:01:37,894 - INFO - Successfully joined group feedback-group with generation 10
+2025-05-11 16:01:37,895 - INFO - Successfully joined group feedback-group with generation 10
+2025-05-11 16:01:37,895 - INFO - Updated partition assignment: [TopicPartition(topic='new-product-topic', partition=0)]
+2025-05-11 16:01:37,895 - INFO - Updated partition assignment: []
+2025-05-11 16:01:37,895 - INFO - Setting newly assigned partitions {TopicPartition(topic='new-product-topic', partition=0)} for group feedback-group
+2025-05-11 16:01:37,896 - INFO - Setting newly assigned partitions set() for group feedback-group
+2025-05-11 18:46:33,911 - INFO - GET / - 127.0.0.1
+2025-05-11 18:46:34,154 - INFO - 127.0.0.1 - - [11/May/2025 18:46:34] "GET / HTTP/1.1" 200 -
+2025-05-11 18:46:34,222 - INFO - GET /swaggerui/droid-sans.css - 127.0.0.1
+2025-05-11 18:46:34,226 - INFO - GET /swaggerui/swagger-ui.css - 127.0.0.1
+2025-05-11 18:46:34,537 - INFO - 127.0.0.1 - - [11/May/2025 18:46:34] "[36mGET /swaggerui/droid-sans.css HTTP/1.1[0m" 304 -
+2025-05-11 18:46:34,544 - INFO - GET /swaggerui/swagger-ui-bundle.js - 127.0.0.1
+2025-05-11 18:46:34,545 - INFO - GET /swaggerui/swagger-ui-standalone-preset.js - 127.0.0.1
+2025-05-11 18:46:34,559 - INFO - 127.0.0.1 - - [11/May/2025 18:46:34] "[36mGET /swaggerui/swagger-ui.css HTTP/1.1[0m" 304 -
+2025-05-11 18:46:34,633 - INFO - 127.0.0.1 - - [11/May/2025 18:46:34] "[36mGET /swaggerui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2025-05-11 18:46:34,766 - INFO - 127.0.0.1 - - [11/May/2025 18:46:34] "[36mGET /swaggerui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2025-05-11 18:46:35,246 - INFO - GET /swagger.json - 127.0.0.1
+2025-05-11 18:46:35,261 - INFO - 127.0.0.1 - - [11/May/2025 18:46:35] "GET /swagger.json HTTP/1.1" 200 -
+2025-05-11 18:51:27,051 - INFO - GET /feedback/product/2 - 127.0.0.1
+2025-05-11 18:51:27,102 - INFO - 127.0.0.1 - - [11/May/2025 18:51:27] "GET /feedback/product/2 HTTP/1.1" 200 -
+2025-05-12 20:57:57,863 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-12 20:57:57,911 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-12 20:57:57,911 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-12 20:57:57,914 - INFO -  * Restarting with stat
+2025-05-12 20:58:13,758 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-12 20:58:13,806 - WARNING -  * Debugger is active!
+2025-05-12 20:58:13,811 - INFO -  * Debugger PIN: 265-654-003
+2025-05-12 20:59:41,579 - INFO - GET /feedback/product/2 - 127.0.0.1
+2025-05-12 20:59:41,600 - INFO - 127.0.0.1 - - [12/May/2025 20:59:41] "GET /feedback/product/2 HTTP/1.1" 200 -
+2025-05-12 21:00:31,903 - INFO - GET /feedback/all - 127.0.0.1
+2025-05-12 21:00:31,910 - INFO - 127.0.0.1 - - [12/May/2025 21:00:31] "GET /feedback/all HTTP/1.1" 200 -
+2025-05-12 21:00:32,232 - INFO - GET /feedback/all - 127.0.0.1
+2025-05-12 21:00:32,236 - INFO - 127.0.0.1 - - [12/May/2025 21:00:32] "GET /feedback/all HTTP/1.1" 200 -
+2025-05-12 21:02:21,722 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-12 21:02:21,791 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-12 21:02:21,792 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-12 21:02:21,798 - INFO -  * Restarting with stat
+2025-05-12 21:02:28,304 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-12 21:02:28,360 - WARNING -  * Debugger is active!
+2025-05-12 21:02:28,370 - INFO -  * Debugger PIN: 265-654-003
+2025-05-12 21:05:11,808 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-12 21:05:11,833 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <checking_api_versions_recv> [IPv6 ('::1', 9092, 0, 0)]>: Broker version identified as 2.6
+2025-05-12 21:05:11,834 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2025-05-12 21:05:11,835 - INFO - Updating subscribed topics to: ('new-product-topic',)
+2025-05-12 21:05:11,878 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=0 host=USMGLY59BX.pwcglb.com:9092 <connecting> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: connecting to USMGLY59BX.pwcglb.com:9092 [('fe80::507a:af30:7047:9015', 9092, 0, 14) IPv6]
+2025-05-12 21:05:11,880 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=0 host=USMGLY59BX.pwcglb.com:9092 <connected> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: Connection complete.
+2025-05-12 21:05:11,880 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2025-05-12 21:05:11,919 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-12 21:05:11,919 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-12 21:05:11,926 - INFO -  * Restarting with stat
+2025-05-12 21:05:11,993 - INFO - Coordinator for group/feedback-group is BrokerMetadata(nodeId='coordinator-0', host='USMGLY59BX.pwcglb.com', port=9092, rack=None)
+2025-05-12 21:05:11,994 - INFO - Discovered coordinator coordinator-0 for group feedback-group
+2025-05-12 21:05:11,994 - INFO - Starting new heartbeat thread
+2025-05-12 21:05:11,997 - INFO - Revoking previously assigned partitions set() for group feedback-group
+2025-05-12 21:05:11,999 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=coordinator-0 host=USMGLY59BX.pwcglb.com:9092 <connecting> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: connecting to USMGLY59BX.pwcglb.com:9092 [('fe80::507a:af30:7047:9015', 9092, 0, 14) IPv6]
+2025-05-12 21:05:12,000 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=coordinator-0 host=USMGLY59BX.pwcglb.com:9092 <connected> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: Connection complete.
+2025-05-12 21:05:12,102 - INFO - (Re-)joining group feedback-group
+2025-05-12 21:05:12,126 - INFO - (Re-)joining group feedback-group
+2025-05-12 21:05:12,152 - INFO - Elected group leader -- performing partition assignments using range
+2025-05-12 21:05:12,185 - INFO - Successfully joined group feedback-group with generation 12
+2025-05-12 21:05:12,185 - INFO - Updated partition assignment: [TopicPartition(topic='new-product-topic', partition=0)]
+2025-05-12 21:05:12,186 - INFO - Setting newly assigned partitions {TopicPartition(topic='new-product-topic', partition=0)} for group feedback-group
+2025-05-12 21:05:19,365 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-12 21:05:19,375 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <checking_api_versions_recv> [IPv6 ('::1', 9092, 0, 0)]>: Broker version identified as 2.6
+2025-05-12 21:05:19,375 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2025-05-12 21:05:19,377 - INFO - Updating subscribed topics to: ('new-product-topic',)
+2025-05-12 21:05:19,384 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=0 host=USMGLY59BX.pwcglb.com:9092 <connecting> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: connecting to USMGLY59BX.pwcglb.com:9092 [('fe80::507a:af30:7047:9015', 9092, 0, 14) IPv6]
+2025-05-12 21:05:19,385 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=0 host=USMGLY59BX.pwcglb.com:9092 <connected> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: Connection complete.
+2025-05-12 21:05:19,385 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2025-05-12 21:05:19,431 - WARNING -  * Debugger is active!
+2025-05-12 21:05:19,435 - INFO -  * Debugger PIN: 265-654-003
+2025-05-12 21:05:19,491 - INFO - Coordinator for group/feedback-group is BrokerMetadata(nodeId='coordinator-0', host='USMGLY59BX.pwcglb.com', port=9092, rack=None)
+2025-05-12 21:05:19,491 - INFO - Discovered coordinator coordinator-0 for group feedback-group
+2025-05-12 21:05:19,492 - INFO - Starting new heartbeat thread
+2025-05-12 21:05:19,493 - INFO - Revoking previously assigned partitions set() for group feedback-group
+2025-05-12 21:05:19,494 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=coordinator-0 host=USMGLY59BX.pwcglb.com:9092 <connecting> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: connecting to USMGLY59BX.pwcglb.com:9092 [('fe80::507a:af30:7047:9015', 9092, 0, 14) IPv6]
+2025-05-12 21:05:19,495 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=coordinator-0 host=USMGLY59BX.pwcglb.com:9092 <connected> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: Connection complete.
+2025-05-12 21:05:19,596 - INFO - (Re-)joining group feedback-group
+2025-05-12 21:05:19,604 - INFO - (Re-)joining group feedback-group
+2025-05-12 21:05:21,217 - WARNING - Heartbeat failed for group feedback-group because it is rebalancing
+2025-05-12 21:05:21,221 - INFO - Revoking previously assigned partitions {TopicPartition(topic='new-product-topic', partition=0)} for group feedback-group
+2025-05-12 21:05:21,221 - INFO - (Re-)joining group feedback-group
+2025-05-12 21:05:21,229 - INFO - Elected group leader -- performing partition assignments using range
+2025-05-12 21:05:21,237 - INFO - Successfully joined group feedback-group with generation 13
+2025-05-12 21:05:21,237 - INFO - Updated partition assignment: []
+2025-05-12 21:05:21,238 - INFO - Successfully joined group feedback-group with generation 13
+2025-05-12 21:05:21,238 - INFO - Setting newly assigned partitions set() for group feedback-group
+2025-05-12 21:05:21,238 - INFO - Updated partition assignment: [TopicPartition(topic='new-product-topic', partition=0)]
+2025-05-12 21:05:21,238 - INFO - Setting newly assigned partitions {TopicPartition(topic='new-product-topic', partition=0)} for group feedback-group
+2025-05-12 21:07:35,402 - INFO - GET /feedback/product/3 - 127.0.0.1
+2025-05-12 21:07:35,424 - INFO - 127.0.0.1 - - [12/May/2025 21:07:35] "GET /feedback/product/3 HTTP/1.1" 200 -
+2025-05-12 21:16:34,420 - ERROR - <BrokerConnection client_id=kafka-python-2.2.6, node_id=0 host=USMGLY59BX.pwcglb.com:9092 <connected> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: Closing connection. KafkaConnectionError: Socket EVENT_READ without in-flight-requests
+2025-05-12 21:16:34,421 - ERROR - <BrokerConnection client_id=kafka-python-2.2.6, node_id=coordinator-0 host=USMGLY59BX.pwcglb.com:9092 <connected> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: Closing connection. KafkaConnectionError: Socket EVENT_READ without in-flight-requests
+2025-05-12 21:16:34,419 - ERROR - <BrokerConnection client_id=kafka-python-2.2.6, node_id=0 host=USMGLY59BX.pwcglb.com:9092 <connected> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: Error receiving network data closing socket
+Traceback (most recent call last):
+  File "C:\Users\ssnekha001\AppData\Local\Programs\Python\Python313\Lib\site-packages\kafka\conn.py", line 1157, in _recv
+    data = self._sock.recv(self.config['sock_chunk_bytes'])
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-05-12 21:16:34,567 - ERROR - <BrokerConnection client_id=kafka-python-2.2.6, node_id=0 host=USMGLY59BX.pwcglb.com:9092 <connected> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: Closing connection. KafkaConnectionError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-05-12 21:16:34,567 - ERROR - Fetch to node 0 failed: KafkaConnectionError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-05-12 21:16:34,568 - ERROR - <BrokerConnection client_id=kafka-python-2.2.6, node_id=coordinator-0 host=USMGLY59BX.pwcglb.com:9092 <connected> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: Closing connection. KafkaConnectionError: Socket EVENT_READ without in-flight-requests
+2025-05-12 21:16:34,569 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=0 host=USMGLY59BX.pwcglb.com:9092 <connecting> [IPv4 ('192.168.18.52', 9092)]>: connecting to USMGLY59BX.pwcglb.com:9092 [('192.168.18.52', 9092) IPv4]
+2025-05-13 09:39:06,435 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-13 09:39:06,523 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-13 09:39:06,523 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-13 09:39:06,527 - INFO -  * Restarting with stat
+2025-05-13 09:39:34,145 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-13 09:39:34,177 - WARNING -  * Debugger is active!
+2025-05-13 09:39:34,181 - INFO -  * Debugger PIN: 265-654-003
+2025-05-13 09:44:52,780 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-13 09:44:52,788 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <checking_api_versions_recv> [IPv6 ('::1', 9092, 0, 0)]>: Broker version identified as 2.6
+2025-05-13 09:44:52,789 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2025-05-13 09:44:52,789 - INFO - Updating subscribed topics to: ('new-product-topic',)
+2025-05-13 09:44:52,793 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=0 host=USMGLY59BX.pwcglb.com:9092 <connecting> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: connecting to USMGLY59BX.pwcglb.com:9092 [('fe80::507a:af30:7047:9015', 9092, 0, 14) IPv6]
+2025-05-13 09:44:52,794 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=0 host=USMGLY59BX.pwcglb.com:9092 <connected> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: Connection complete.
+2025-05-13 09:44:52,794 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2025-05-13 09:44:52,828 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-13 09:44:52,828 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-13 09:44:52,831 - INFO -  * Restarting with stat
+2025-05-13 09:44:52,898 - INFO - Coordinator for group/feedback-group is BrokerMetadata(nodeId='coordinator-0', host='USMGLY59BX.pwcglb.com', port=9092, rack=None)
+2025-05-13 09:44:52,898 - INFO - Discovered coordinator coordinator-0 for group feedback-group
+2025-05-13 09:44:52,898 - INFO - Starting new heartbeat thread
+2025-05-13 09:44:52,899 - INFO - Revoking previously assigned partitions set() for group feedback-group
+2025-05-13 09:44:52,900 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=coordinator-0 host=USMGLY59BX.pwcglb.com:9092 <connecting> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: connecting to USMGLY59BX.pwcglb.com:9092 [('fe80::507a:af30:7047:9015', 9092, 0, 14) IPv6]
+2025-05-13 09:44:52,901 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=coordinator-0 host=USMGLY59BX.pwcglb.com:9092 <connected> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: Connection complete.
+2025-05-13 09:44:53,001 - INFO - (Re-)joining group feedback-group
+2025-05-13 09:44:53,005 - INFO - (Re-)joining group feedback-group
+2025-05-13 09:44:53,007 - INFO - Elected group leader -- performing partition assignments using range
+2025-05-13 09:44:53,011 - INFO - Successfully joined group feedback-group with generation 15
+2025-05-13 09:44:53,011 - INFO - Updated partition assignment: [TopicPartition(topic='new-product-topic', partition=0)]
+2025-05-13 09:44:53,011 - INFO - Setting newly assigned partitions {TopicPartition(topic='new-product-topic', partition=0)} for group feedback-group
+2025-05-13 09:45:08,683 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-13 09:45:08,687 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <checking_api_versions_recv> [IPv6 ('::1', 9092, 0, 0)]>: Broker version identified as 2.6
+2025-05-13 09:45:08,687 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2025-05-13 09:45:08,688 - INFO - Updating subscribed topics to: ('new-product-topic',)
+2025-05-13 09:45:08,695 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=0 host=USMGLY59BX.pwcglb.com:9092 <connecting> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: connecting to USMGLY59BX.pwcglb.com:9092 [('fe80::507a:af30:7047:9015', 9092, 0, 14) IPv6]
+2025-05-13 09:45:08,696 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=0 host=USMGLY59BX.pwcglb.com:9092 <connected> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: Connection complete.
+2025-05-13 09:45:08,696 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2025-05-13 09:45:08,755 - WARNING -  * Debugger is active!
+2025-05-13 09:45:08,762 - INFO -  * Debugger PIN: 265-654-003
+2025-05-13 09:45:08,799 - INFO - Coordinator for group/feedback-group is BrokerMetadata(nodeId='coordinator-0', host='USMGLY59BX.pwcglb.com', port=9092, rack=None)
+2025-05-13 09:45:08,799 - INFO - Discovered coordinator coordinator-0 for group feedback-group
+2025-05-13 09:45:08,799 - INFO - Starting new heartbeat thread
+2025-05-13 09:45:08,818 - INFO - Revoking previously assigned partitions set() for group feedback-group
+2025-05-13 09:45:08,819 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=coordinator-0 host=USMGLY59BX.pwcglb.com:9092 <connecting> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: connecting to USMGLY59BX.pwcglb.com:9092 [('fe80::507a:af30:7047:9015', 9092, 0, 14) IPv6]
+2025-05-13 09:45:08,819 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=coordinator-0 host=USMGLY59BX.pwcglb.com:9092 <connected> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: Connection complete.
+2025-05-13 09:45:08,922 - INFO - (Re-)joining group feedback-group
+2025-05-13 09:45:08,928 - INFO - (Re-)joining group feedback-group
+2025-05-13 09:45:11,073 - WARNING - Heartbeat failed for group feedback-group because it is rebalancing
+2025-05-13 09:45:11,076 - INFO - Revoking previously assigned partitions {TopicPartition(topic='new-product-topic', partition=0)} for group feedback-group
+2025-05-13 09:45:11,076 - INFO - (Re-)joining group feedback-group
+2025-05-13 09:45:11,079 - INFO - Elected group leader -- performing partition assignments using range
+2025-05-13 09:45:11,084 - INFO - Successfully joined group feedback-group with generation 16
+2025-05-13 09:45:11,084 - INFO - Successfully joined group feedback-group with generation 16
+2025-05-13 09:45:11,084 - INFO - Updated partition assignment: []
+2025-05-13 09:45:11,084 - INFO - Updated partition assignment: [TopicPartition(topic='new-product-topic', partition=0)]
+2025-05-13 09:45:11,084 - INFO - Setting newly assigned partitions set() for group feedback-group
+2025-05-13 09:45:11,084 - INFO - Setting newly assigned partitions {TopicPartition(topic='new-product-topic', partition=0)} for group feedback-group
+2025-05-13 09:47:55,266 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-13 09:47:55,271 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <checking_api_versions_recv> [IPv6 ('::1', 9092, 0, 0)]>: Broker version identified as 2.6
+2025-05-13 09:47:55,271 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2025-05-13 09:47:55,272 - INFO - Updating subscribed topics to: ('new-product-topic',)
+2025-05-13 09:47:55,277 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=0 host=USMGLY59BX.pwcglb.com:9092 <connecting> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: connecting to USMGLY59BX.pwcglb.com:9092 [('fe80::507a:af30:7047:9015', 9092, 0, 14) IPv6]
+2025-05-13 09:47:55,278 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=0 host=USMGLY59BX.pwcglb.com:9092 <connected> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: Connection complete.
+2025-05-13 09:47:55,278 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2025-05-13 09:47:55,325 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-13 09:47:55,325 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-13 09:47:55,328 - INFO -  * Restarting with stat
+2025-05-13 09:47:55,383 - INFO - Coordinator for group/feedback-group is BrokerMetadata(nodeId='coordinator-0', host='USMGLY59BX.pwcglb.com', port=9092, rack=None)
+2025-05-13 09:47:55,384 - INFO - Discovered coordinator coordinator-0 for group feedback-group
+2025-05-13 09:47:55,384 - INFO - Starting new heartbeat thread
+2025-05-13 09:47:55,386 - INFO - Revoking previously assigned partitions set() for group feedback-group
+2025-05-13 09:47:55,388 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=coordinator-0 host=USMGLY59BX.pwcglb.com:9092 <connecting> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: connecting to USMGLY59BX.pwcglb.com:9092 [('fe80::507a:af30:7047:9015', 9092, 0, 14) IPv6]
+2025-05-13 09:47:55,389 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=coordinator-0 host=USMGLY59BX.pwcglb.com:9092 <connected> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: Connection complete.
+2025-05-13 09:47:55,489 - INFO - (Re-)joining group feedback-group
+2025-05-13 09:47:55,495 - INFO - (Re-)joining group feedback-group
+2025-05-13 09:47:55,501 - INFO - Elected group leader -- performing partition assignments using range
+2025-05-13 09:47:55,506 - INFO - Successfully joined group feedback-group with generation 18
+2025-05-13 09:47:55,507 - INFO - Updated partition assignment: [TopicPartition(topic='new-product-topic', partition=0)]
+2025-05-13 09:47:55,508 - INFO - Setting newly assigned partitions {TopicPartition(topic='new-product-topic', partition=0)} for group feedback-group
+2025-05-13 09:48:09,748 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-13 09:48:09,753 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <checking_api_versions_recv> [IPv6 ('::1', 9092, 0, 0)]>: Broker version identified as 2.6
+2025-05-13 09:48:09,754 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2025-05-13 09:48:09,756 - INFO - Updating subscribed topics to: ('new-product-topic',)
+2025-05-13 09:48:09,762 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=0 host=USMGLY59BX.pwcglb.com:9092 <connecting> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: connecting to USMGLY59BX.pwcglb.com:9092 [('fe80::507a:af30:7047:9015', 9092, 0, 14) IPv6]
+2025-05-13 09:48:09,763 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=0 host=USMGLY59BX.pwcglb.com:9092 <connected> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: Connection complete.
+2025-05-13 09:48:09,764 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2025-05-13 09:48:09,814 - WARNING -  * Debugger is active!
+2025-05-13 09:48:09,826 - INFO -  * Debugger PIN: 265-654-003
+2025-05-13 09:48:09,869 - INFO - Coordinator for group/feedback-group is BrokerMetadata(nodeId='coordinator-0', host='USMGLY59BX.pwcglb.com', port=9092, rack=None)
+2025-05-13 09:48:09,869 - INFO - Discovered coordinator coordinator-0 for group feedback-group
+2025-05-13 09:48:09,870 - INFO - Starting new heartbeat thread
+2025-05-13 09:48:09,872 - INFO - Revoking previously assigned partitions set() for group feedback-group
+2025-05-13 09:48:09,873 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=coordinator-0 host=USMGLY59BX.pwcglb.com:9092 <connecting> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: connecting to USMGLY59BX.pwcglb.com:9092 [('fe80::507a:af30:7047:9015', 9092, 0, 14) IPv6]
+2025-05-13 09:48:09,874 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=coordinator-0 host=USMGLY59BX.pwcglb.com:9092 <connected> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: Connection complete.
+2025-05-13 09:48:09,974 - INFO - (Re-)joining group feedback-group
+2025-05-13 09:48:09,978 - INFO - (Re-)joining group feedback-group
+2025-05-13 09:48:10,533 - WARNING - Heartbeat failed for group feedback-group because it is rebalancing
+2025-05-13 09:48:10,537 - INFO - Revoking previously assigned partitions {TopicPartition(topic='new-product-topic', partition=0)} for group feedback-group
+2025-05-13 09:48:10,537 - INFO - (Re-)joining group feedback-group
+2025-05-13 09:48:10,541 - INFO - Elected group leader -- performing partition assignments using range
+2025-05-13 09:48:10,546 - INFO - Successfully joined group feedback-group with generation 19
+2025-05-13 09:48:10,546 - INFO - Successfully joined group feedback-group with generation 19
+2025-05-13 09:48:10,546 - INFO - Updated partition assignment: []
+2025-05-13 09:48:10,546 - INFO - Updated partition assignment: [TopicPartition(topic='new-product-topic', partition=0)]
+2025-05-13 09:48:10,547 - INFO - Setting newly assigned partitions {TopicPartition(topic='new-product-topic', partition=0)} for group feedback-group
+2025-05-13 09:48:10,547 - INFO - Setting newly assigned partitions set() for group feedback-group
+2025-05-13 09:50:57,901 - INFO - GET / - 127.0.0.1
+2025-05-13 09:50:58,053 - INFO - 127.0.0.1 - - [13/May/2025 09:50:58] "GET / HTTP/1.1" 200 -
+2025-05-13 09:50:58,123 - INFO - GET /swaggerui/droid-sans.css - 127.0.0.1
+2025-05-13 09:50:58,153 - INFO - GET /swaggerui/swagger-ui.css - 127.0.0.1
+2025-05-13 09:50:58,435 - INFO - GET /swaggerui/swagger-ui-bundle.js - 127.0.0.1
+2025-05-13 09:50:58,438 - INFO - GET /swaggerui/swagger-ui-standalone-preset.js - 127.0.0.1
+2025-05-13 09:50:58,533 - INFO - 127.0.0.1 - - [13/May/2025 09:50:58] "[36mGET /swaggerui/droid-sans.css HTTP/1.1[0m" 304 -
+2025-05-13 09:50:58,567 - INFO - 127.0.0.1 - - [13/May/2025 09:50:58] "[36mGET /swaggerui/swagger-ui.css HTTP/1.1[0m" 304 -
+2025-05-13 09:50:59,035 - INFO - 127.0.0.1 - - [13/May/2025 09:50:59] "[36mGET /swaggerui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2025-05-13 09:50:59,156 - INFO - 127.0.0.1 - - [13/May/2025 09:50:59] "[36mGET /swaggerui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2025-05-13 09:50:59,552 - INFO - GET /swagger.json - 127.0.0.1
+2025-05-13 09:50:59,556 - INFO - 127.0.0.1 - - [13/May/2025 09:50:59] "GET /swagger.json HTTP/1.1" 200 -
+2025-05-13 09:52:05,278 - INFO - GET /feedback/eda - 127.0.0.1
+2025-05-13 09:52:05,354 - INFO - 127.0.0.1 - - [13/May/2025 09:52:05] "GET /feedback/eda HTTP/1.1" 200 -
+2025-05-13 09:52:05,534 - INFO - GET /feedback/eda - 127.0.0.1
+2025-05-13 09:52:05,561 - INFO - 127.0.0.1 - - [13/May/2025 09:52:05] "GET /feedback/eda HTTP/1.1" 200 -
+2025-05-13 09:52:47,149 - INFO - GET /feedback/all - 127.0.0.1
+2025-05-13 09:52:47,153 - INFO - 127.0.0.1 - - [13/May/2025 09:52:47] "GET /feedback/all HTTP/1.1" 200 -
+2025-05-13 09:52:47,466 - INFO - GET /feedback/all - 127.0.0.1
+2025-05-13 09:52:47,474 - INFO - 127.0.0.1 - - [13/May/2025 09:52:47] "GET /feedback/all HTTP/1.1" 200 -
+2025-05-13 10:01:14,200 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-13 10:01:14,205 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <checking_api_versions_recv> [IPv6 ('::1', 9092, 0, 0)]>: Broker version identified as 2.6
+2025-05-13 10:01:14,206 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2025-05-13 10:01:14,208 - INFO - Updating subscribed topics to: ('new-product-topic',)
+2025-05-13 10:01:14,213 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=0 host=USMGLY59BX.pwcglb.com:9092 <connecting> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: connecting to USMGLY59BX.pwcglb.com:9092 [('fe80::507a:af30:7047:9015', 9092, 0, 14) IPv6]
+2025-05-13 10:01:14,215 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=0 host=USMGLY59BX.pwcglb.com:9092 <connected> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: Connection complete.
+2025-05-13 10:01:14,215 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2025-05-13 10:01:14,270 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-13 10:01:14,270 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-13 10:01:14,310 - INFO -  * Restarting with stat
+2025-05-13 10:01:14,318 - INFO - Coordinator for group/feedback-group is BrokerMetadata(nodeId='coordinator-0', host='USMGLY59BX.pwcglb.com', port=9092, rack=None)
+2025-05-13 10:01:14,318 - INFO - Discovered coordinator coordinator-0 for group feedback-group
+2025-05-13 10:01:14,319 - INFO - Starting new heartbeat thread
+2025-05-13 10:01:14,336 - INFO - Revoking previously assigned partitions set() for group feedback-group
+2025-05-13 10:01:14,337 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=coordinator-0 host=USMGLY59BX.pwcglb.com:9092 <connecting> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: connecting to USMGLY59BX.pwcglb.com:9092 [('fe80::507a:af30:7047:9015', 9092, 0, 14) IPv6]
+2025-05-13 10:01:14,338 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=coordinator-0 host=USMGLY59BX.pwcglb.com:9092 <connected> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: Connection complete.
+2025-05-13 10:01:14,440 - INFO - (Re-)joining group feedback-group
+2025-05-13 10:01:14,450 - INFO - (Re-)joining group feedback-group
+2025-05-13 10:01:14,459 - INFO - Elected group leader -- performing partition assignments using range
+2025-05-13 10:01:14,463 - INFO - Successfully joined group feedback-group with generation 21
+2025-05-13 10:01:14,463 - INFO - Updated partition assignment: [TopicPartition(topic='new-product-topic', partition=0)]
+2025-05-13 10:01:14,464 - INFO - Setting newly assigned partitions {TopicPartition(topic='new-product-topic', partition=0)} for group feedback-group
+2025-05-13 10:01:31,700 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-13 10:01:31,705 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <checking_api_versions_recv> [IPv6 ('::1', 9092, 0, 0)]>: Broker version identified as 2.6
+2025-05-13 10:01:31,706 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2025-05-13 10:01:31,706 - INFO - Updating subscribed topics to: ('new-product-topic',)
+2025-05-13 10:01:31,712 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=0 host=USMGLY59BX.pwcglb.com:9092 <connecting> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: connecting to USMGLY59BX.pwcglb.com:9092 [('fe80::507a:af30:7047:9015', 9092, 0, 14) IPv6]
+2025-05-13 10:01:31,714 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=0 host=USMGLY59BX.pwcglb.com:9092 <connected> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: Connection complete.
+2025-05-13 10:01:31,714 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2025-05-13 10:01:31,772 - WARNING -  * Debugger is active!
+2025-05-13 10:01:31,785 - INFO -  * Debugger PIN: 265-654-003
+2025-05-13 10:01:31,820 - INFO - Coordinator for group/feedback-group is BrokerMetadata(nodeId='coordinator-0', host='USMGLY59BX.pwcglb.com', port=9092, rack=None)
+2025-05-13 10:01:31,820 - INFO - Discovered coordinator coordinator-0 for group feedback-group
+2025-05-13 10:01:31,821 - INFO - Starting new heartbeat thread
+2025-05-13 10:01:31,823 - INFO - Revoking previously assigned partitions set() for group feedback-group
+2025-05-13 10:01:31,825 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=coordinator-0 host=USMGLY59BX.pwcglb.com:9092 <connecting> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: connecting to USMGLY59BX.pwcglb.com:9092 [('fe80::507a:af30:7047:9015', 9092, 0, 14) IPv6]
+2025-05-13 10:01:31,826 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=coordinator-0 host=USMGLY59BX.pwcglb.com:9092 <connected> [IPv6 ('fe80::507a:af30:7047:9015', 9092, 0, 14)]>: Connection complete.
+2025-05-13 10:01:31,944 - INFO - (Re-)joining group feedback-group
+2025-05-13 10:01:31,958 - INFO - (Re-)joining group feedback-group
+2025-05-13 10:01:32,503 - WARNING - Heartbeat failed for group feedback-group because it is rebalancing
+2025-05-13 10:01:32,518 - INFO - Revoking previously assigned partitions {TopicPartition(topic='new-product-topic', partition=0)} for group feedback-group
+2025-05-13 10:01:32,518 - INFO - (Re-)joining group feedback-group
+2025-05-13 10:01:32,523 - INFO - Elected group leader -- performing partition assignments using range
+2025-05-13 10:01:32,534 - INFO - Successfully joined group feedback-group with generation 22
+2025-05-13 10:01:32,534 - INFO - Successfully joined group feedback-group with generation 22
+2025-05-13 10:01:32,534 - INFO - Updated partition assignment: []
+2025-05-13 10:01:32,534 - INFO - Updated partition assignment: [TopicPartition(topic='new-product-topic', partition=0)]
+2025-05-13 10:01:32,535 - INFO - Setting newly assigned partitions {TopicPartition(topic='new-product-topic', partition=0)} for group feedback-group
+2025-05-13 10:12:26,032 - INFO - GET /feedback/all - 127.0.0.1
+2025-05-13 10:12:26,062 - INFO - 127.0.0.1 - - [13/May/2025 10:12:26] "GET /feedback/all HTTP/1.1" 200 -
+2025-05-13 10:12:26,296 - INFO - GET /feedback/all - 127.0.0.1
+2025-05-13 10:12:26,303 - INFO - 127.0.0.1 - - [13/May/2025 10:12:26] "GET /feedback/all HTTP/1.1" 200 -
+2025-05-13 10:12:55,109 - INFO - OPTIONS /feedback/submit - 127.0.0.1
+2025-05-13 10:12:55,110 - INFO - 127.0.0.1 - - [13/May/2025 10:12:55] "OPTIONS /feedback/submit HTTP/1.1" 200 -
+2025-05-13 10:12:55,419 - INFO - POST /feedback/submit - 127.0.0.1
+2025-05-13 10:12:55,442 - INFO - Feedback submitted by user Snekha for product P001
+2025-05-13 10:12:55,444 - INFO - 127.0.0.1 - - [13/May/2025 10:12:55] "[35m[1mPOST /feedback/submit HTTP/1.1[0m" 201 -
+2025-05-13 10:12:55,683 - INFO - GET /feedback/all - 127.0.0.1
+2025-05-13 10:12:55,691 - INFO - 127.0.0.1 - - [13/May/2025 10:12:55] "GET /feedback/all HTTP/1.1" 200 -
+2025-05-13 10:13:08,335 - INFO - GET /feedback/eda - 127.0.0.1
+2025-05-13 10:13:08,347 - INFO - 127.0.0.1 - - [13/May/2025 10:13:08] "GET /feedback/eda HTTP/1.1" 200 -
+2025-05-13 10:13:08,661 - INFO - GET /feedback/eda - 127.0.0.1
+2025-05-13 10:13:08,687 - INFO - 127.0.0.1 - - [13/May/2025 10:13:08] "GET /feedback/eda HTTP/1.1" 200 -
+2025-05-13 10:13:37,409 - INFO - GET /feedback/download - 127.0.0.1
+2025-05-13 10:13:37,416 - INFO - 127.0.0.1 - - [13/May/2025 10:13:37] "GET /feedback/download HTTP/1.1" 200 -
+2025-05-13 10:23:52,893 - INFO - GET /feedback/product/2 - 127.0.0.1
+2025-05-13 10:23:52,901 - INFO - 127.0.0.1 - - [13/May/2025 10:23:52] "GET /feedback/product/2 HTTP/1.1" 200 -
+2025-05-13 10:38:13,050 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-13 10:38:13,104 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-13 10:38:13,104 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-13 10:38:13,107 - INFO -  * Restarting with stat
+2025-05-13 10:38:36,898 - INFO - <BrokerConnection client_id=kafka-python-2.2.6, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-13 10:38:36,952 - WARNING -  * Debugger is active!
+2025-05-13 10:38:36,958 - INFO -  * Debugger PIN: 265-654-003

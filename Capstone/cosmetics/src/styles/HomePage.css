@@ -1,0 +1,27 @@
+.homepage-background {
+    background: linear-gradient(135deg, #fff0f5, #f5f5f5);
+    min-height: 100vh;
+  }
+  
+  .homepage-title {
+    font-size: 3rem;
+    font-weight: bold;
+    color: #d63384;
+  }
+  
+  .homepage-subtitle {
+    font-size: 1.25rem;
+    color: #6c757d;
+  }
+  
+  .homepage-card {
+    border: none;
+    border-radius: 1rem;
+    transition: box-shadow 0.3s ease;
+    background-color: white;
+  }
+  
+  .homepage-card:hover {
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+  }
+  

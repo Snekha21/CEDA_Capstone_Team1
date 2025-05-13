@@ -1,0 +1,16 @@
+meta {
+  name: Service_Registry_Deregister
+  type: http
+  seq: 4
+}
+
+post {
+  url: http://localhost:3001/deregister
+  body: json
+  auth: none
+}
+
+body:json {
+  {"name": "Service_Registryxvd", "version": "1", "host": "localhost", "port": 3001
+  }
+}

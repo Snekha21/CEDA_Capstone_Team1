@@ -1,0 +1,292 @@
+
+body {
+    background-color: #F5EBE0;
+    color: #3A3A3A;
+    line-height: 1.6;
+    font-size: 1rem;
+  }
+  
+  h1, h2, h3, h4, h5 {
+    color: #DBA39A;
+  }
+  
+  a {
+    color: #DBA39A;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Lumière Link Above Navbar */
+  .lumiere-link {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .lumiere-link a {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #DBA39A;
+    text-transform: uppercase;
+    text-decoration: none;
+  }
+  
+  .lumiere-link a:hover {
+    color: #3A3A3A;
+  }
+  
+  /* Navbar */
+  .navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 0;
+    background-color: #F0DBDB;
+  }
+  
+  .navbar a {
+    color: #DBA39A;
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin: 0 20px;
+  }
+  
+  .navbar a:hover {
+    color: #3A3A3A;
+  }
+  
+  /* Section container */
+  .section-container {
+    background-color: #FEFCF3;
+    padding: 30px;
+    border-radius: 8px;
+    max-width: 600px;
+    margin: 50px auto;
+    text-align: center;
+  }
+  
+  .section-container h2 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #DBA39A;
+    margin-bottom: 20px;
+  }
+  
+  /* Main Section */
+  .main-section {
+    background-color: #F5EBE0;
+    padding: 40px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .main-section h1 {
+    font-size: 2.5rem;
+    color: #333;
+    font-weight: bold;
+  }
+  
+  .main-section p {
+    font-size: 1.2rem;
+    color: #666;
+    margin-top: 15px;
+    line-height: 1.6;
+  }
+  
+  /* Tagline Highlight */
+  .highlight-tagline {
+    background-color: #FFF0F0;
+    padding: 12px;
+    border-left: 4px solid #DBA39A;
+    font-style: italic;
+    margin-top: 20px;
+    display: inline-block;
+    border-radius: 4px;
+  }
+  
+  /* Sentiment Analysis Button */
+  .analyze-button {
+    background-color: #DBA39A;
+    color: #FFF;
+    padding: 12px 20px;
+    font-size: 1.2rem;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top: 15px;
+  }
+  
+  .analyze-button:hover {
+    background-color: #fb8484;
+  }
+  
+  .analyze-button:active {
+    background-color: #2b2b2b;
+  }
+  
+  /* Input and select fields */
+  .input-field {
+    width: 100%;
+    padding: 12px 20px;
+    font-size: 1.2rem;
+    border: 1px solid #DBA39A;
+    border-radius: 8px;
+    margin-bottom: 15px;
+    margin-top: 10px;
+    box-sizing: border-box;
+    background-color: #FFF;
+  }
+  
+  .input-field:focus {
+    border-color: #DBA39A;
+    outline: none;
+  }
+  
+  /* Responsive */
+  @media (max-width: 768px) {
+    .navbar {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .navbar a {
+      margin: 5px 0;
+    }
+  
+    .main-section img {
+      width: 80%;
+    }
+  
+    .section-container {
+      width: 90%;
+    }
+  }
+  /* Review Form Styles */
+  .section-container {
+    background-color: #FEFCF3;
+    padding: 30px;
+    border-radius: 8px;
+    max-width: 600px;
+    margin: 50px auto;
+    text-align: center;
+  }
+  
+  .section-container h2 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #DBA39A;
+    margin-bottom: 20px;
+  }
+  
+  .input-field {
+    width: 100%;
+    padding: 12px 20px;
+    font-size: 1.2rem;
+    border: 1px solid #DBA39A;
+    border-radius: 8px;
+    margin-bottom: 15px;
+    margin-top: 10px;
+    box-sizing: border-box;
+    background-color: #FFF;
+  }
+  
+  .input-field:focus {
+    border-color: #DBA39A;
+    outline: none;
+  }
+  
+  .analyze-button {
+    background-color: #DBA39A;
+    color: #FFF;
+    padding: 12px 20px;
+    font-size: 1.2rem;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top: 15px;
+  }
+  
+  .analyze-button:hover {
+    background-color: #3A3A3A;
+  }
+  
+  .analyze-button:active {
+    background-color: #2b2b2b;
+  }
+  
+  /* src/App.css or src/index.css */
+
+/* General reset */
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: #F5EBE0;
+  }
+  
+  /* Styling for the header */
+  .header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px; /* Space between elements */
+    padding: 20px;
+    font-size: 24px;
+    font-weight: 600;
+    color: #DBA39A;
+    text-transform: uppercase;
+    background-color: #FEFCF3;
+    position: sticky;
+    top: 0;
+    z-index: 999;
+    width: 100%;
+  }
+  
+  /* Header links styling */
+  .header a {
+    text-decoration: none;
+    color: inherit;
+    font-weight: bold;
+    transition: color 0.3s;
+  }
+  
+  /* Hover effect on header links */
+  .header a:hover {
+    color: #F0DBDB;
+  }
+  
+  /* Main content area */
+  .main-content {
+    margin: 30px auto;
+    text-align: center;
+    padding: 20px;
+    max-width: 1200px;
+    width: 90%;
+  }
+  
+  /* Main content heading */
+  .main-content h2 {
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #DBA39A;
+  }
+  
+  /* Center content for responsiveness */
+  @media (max-width: 768px) {
+    .header {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .header a {
+      margin: 5px 0;
+    }
+  }
+  

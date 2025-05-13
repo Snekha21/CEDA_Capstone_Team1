@@ -1,0 +1,192 @@
+/* Container */
+.cute-container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: 'Poppins', sans-serif;
+ }
+ /* Cute Form Card */
+ .cute-form-card {
+  background: linear-gradient(to right, #ffe4ec, #ffeef7);
+  padding: 25px;
+  border-radius: 15px;
+  box-shadow: 0 8px 20px rgba(255, 192, 203, 0.2);
+  max-width: 420px;
+  margin: auto;
+  margin-bottom: 40px;
+  border: 1px solid #f8c2d6;
+ }
+ .form-title {
+  text-align: center;
+  color: #d63384;
+  margin-bottom: 15px;
+  font-weight: bold;
+  font-size: 1.7rem;
+ }
+ /* Inputs */
+ .feedback-form input,
+ .feedback-form select,
+ .feedback-form textarea {
+  width: 100%;
+  padding: 12px 14px;
+  margin-bottom: 14px;
+  border-radius: 10px;
+  border: 1px solid #f4c1d8;
+  background-color: #fff9fc;
+  font-size: 15px;
+ }
+ .feedback-form textarea {
+  resize: none;
+ }
+ .feedback-form button {
+  width: 100%;
+  padding: 12px;
+  background-color: #d63384;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.3s;
+ }
+ .feedback-form button:hover {
+  background-color: #bd296e;
+ }
+ /* Star Ratings */
+ .star-rating {
+  font-size: 1.5rem;
+  text-align: center;
+  margin-bottom: 14px;
+  color: #ffd3e2;
+ }
+ .star {
+  cursor: pointer;
+  transition: color 0.3s;
+  margin: 0 2px;
+ }
+ .star.filled {
+  color: #ff69b4;
+ }
+ /* Message */
+ .message {
+  background-color: #ffeef4;
+  color: #91184c;
+  padding: 10px;
+  margin-bottom: 14px;
+  border-left: 4px solid #d63384;
+  border-radius: 5px;
+ }
+ /* Review Stream */
+ .review-stream-section {
+  text-align: center;
+ }
+ .review-header {
+  font-size: 1.9rem;
+  color: #d63384;
+  margin-bottom: 20px;
+  font-weight: 600;
+ }
+ .review-stream {
+  display: flex;
+  overflow-x: auto;
+  gap: 20px;
+  padding-bottom: 10px;
+  scroll-behavior: smooth;
+ }
+ .review-card {
+  flex: 0 0 auto;
+  min-width: 220px;
+  background: #fff0f5;
+  border-radius: 15px;
+  padding: 15px;
+  box-shadow: 0 4px 10px rgba(203, 45, 111, 0.12);
+  transition: transform 0.3s ease;
+ }
+ .review-card:hover {
+  transform: translateY(-5px);
+ }
+ .review-card h5 {
+  color: #912f56;
+  font-weight: bold;
+  margin-bottom: 6px;
+ }
+ .review-card p {
+  color: #5a3e4d;
+  font-style: italic;
+  font-size: 0.95rem;
+ }
+ .review-card .stars {
+  margin: 6px 0;
+ }
+
+ /* Global */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+  background: linear-gradient(to right, #fff0f5, #ffe4e1);
+  color: #6b2e46;
+  /* background: url('./images/background image.avif') no-repeat center center fixed; */
+  background-size: cover;
+ }
+ /* Header */
+ .app-header {
+  background-color: #fff0f5cc;
+  padding: 20px;
+  text-align: center;
+  border-bottom: 2px solid #ffc0cb;
+ }
+ .app-header h1 {
+  margin: 0;
+  font-weight: 600;
+  color: #b03a5c;
+  letter-spacing: 1px;
+  font-family: 'Playfair Display', serif;
+ }
+ /* Navbar */
+ .app-navbar {
+  background-color: rgba(255, 240, 245, 0.85) !important;
+  border-bottom: 1px solid #ffb6c1;
+ }
+ .btn-pink {
+  background-color: #e75480;
+  border: none;
+  color: white;
+  font-weight: 500;
+  border-radius: 30px;
+ }
+ .btn-pink:hover {
+  background-color: #d93d6e;
+  color: white;
+ }
+ .btn-outline-pink {
+  border: 2px solid #e75480;
+  color: #e75480;
+  border-radius: 30px;
+  font-weight: 500;
+  background-color: transparent;
+ }
+ .btn-outline-pink:hover {
+  background-color: #fbe9ef;
+  color: #d93d6e;
+  border-color: #d93d6e;
+ }
+ .navbar-brand {
+  font-size: 1.5rem;
+ }
+ /* Inputs */
+ input, select, textarea {
+  border-radius: 10px;
+  border: 1px solid #f3c0d5;
+  padding: 10px;
+ }
+ /* Labels */
+ label {
+  font-weight: 500;
+  color: #5e3a50;
+ }
+ /* Messages */
+ .message {
+  color: #4caf50;
+  font-weight: 500;
+ }
