@@ -28,7 +28,7 @@ This is a microservices-based cosmetics e-commerce platform developed using **Sp
 - `pip install -r requirements.txt` for each Python service
 - Eureka Server (Spring Boot)
 - MongoDB (for feedback if used)
-- Kafka (if integrated)
+- Kafka 
 - Docker (optional for containerization)
 
 ---
