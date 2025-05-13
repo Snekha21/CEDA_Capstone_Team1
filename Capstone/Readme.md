@@ -13,7 +13,7 @@ This is a microservices-based cosmetics e-commerce platform developed using **Sp
 | **Login Service**        | Python Flask   | User login & authentication                      |
 | **Feedback Service**     | Python Flask   | Manages product reviews and ratings              |
 | **Recommendation Engine**| Python Flask   | Suggests related products                        |
-| **Frontend**             | React.js       | UI for the application                           |
+| **Cosmetics (Frontend)**             | React.js       | UI for the application                           |
 | **Eureka Server**        | Spring Boot    | Service discovery (port `7070`)                  |
 
 ---
