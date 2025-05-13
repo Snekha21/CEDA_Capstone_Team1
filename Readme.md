@@ -11,11 +11,12 @@ An end-to-end microservices-based ecommerce platform for cosmetics, featuring a 
 - [File Structure](#file-structure)
 - [Technologies Used](#technologies-used)
 - [Microservices](#microservices)
-- [Service Communication](#service-communication)
+- [Service Communication](#service-intercommunication)
 - [API Documentation (Swagger)](#api-documentation-swagger)
 - [Dockerization](#dockerization)
 - [Error Handling](#error-handling)
 - [Running the Project](#running-the-project)
+- [Ouput Images](#output-images)
 
 ---
 
@@ -183,7 +184,8 @@ Centralized exception handling.
 
 Logging to files in all services.
 
-▶Running the Project
+
+## Running the Project
 
 
 Using batch file (Windows)
@@ -196,3 +198,13 @@ run_all.bat
 
 Manually
 Navigate into each service folder and run it individually as per language.
+
+## Output Images:
+![Screenshot 2025-05-11 185242](https://github.com/user-attachments/assets/df20f5ce-cddc-4dce-9ad3-bf98e6bc93bf)
+![Screenshot 2025-05-11 185112](https://github.com/user-attachments/assets/f73c8463-a58f-45f7-9383-bdad4fea8992)
+![Screenshot 2025-05-11 185226](https://github.com/user-attachments/assets/46840fa8-e18c-4e3c-80a2-7a899eb1b365)
+![Screenshot 2025-05-11 185203](https://github.com/user-attachments/assets/11082fb3-7f65-4895-9747-a3baa6a7e59e)
+![Screenshot 2025-05-11 184858](https://github.com/user-attachments/assets/1786af14-220b-47ad-a5ff-b8f2f46b9502)
+![Screenshot 2025-05-11 184844](https://github.com/user-attachments/assets/add00e56-c7d8-4af9-adfb-4dc562e8afa0)
+![Screenshot 2025-05-11 184618](https://github.com/user-attachments/assets/156b1eb5-c5df-4be5-a4c6-3cd75fe46ed6)
+![Screenshot 2025-05-11 184539](https://github.com/user-attachments/assets/e16eca04-da49-4d33-a1cb-2630864af452)
