@@ -31,12 +31,12 @@ This project is built with a microservices architecture where:
 
 ## Architecture
 
-See the `architecture_diagram.png` provided in the `docs/` folder for a detailed component-level view.
+<img width="986" alt="architecture" src="https://github.com/user-attachments/assets/99027f5a-6d20-41c1-a9cb-1ef2a2a5a230" />
 
 ---
 
 ## 📁 File Structure
-cosmetics-ecommerce-platform/Capstone/
+Capstone/
 
 ├── cosmetics/                      # React Frontend
 
