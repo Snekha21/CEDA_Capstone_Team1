@@ -35,7 +35,7 @@ This project is built with a microservices architecture where:
 
 ---
 
-## 📁 File Structure
+## File Structure
 Capstone/
 
 ├── cosmetics/                      # React Frontend
@@ -81,7 +81,7 @@ Capstone/
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 | Component        | Tech Stack            |
 |------------------|------------------------|
@@ -99,7 +99,7 @@ Capstone/
 
 ---
 
-## 🧩 Microservices
+## Microservices
 
 ### 1. **Product Service (Spring Boot)**
 - DB: H2
@@ -134,7 +134,7 @@ Capstone/
 
 ---
 
-## 🔁 Service InterCommunication
+## Service InterCommunication
 
 ### 1. **Feedback Mapping**
 - Product details page fetches reviews from Feedback Service using product ID from Product Service.
@@ -149,14 +149,14 @@ Capstone/
 
 ---
 
-## 📄 API Documentation (Swagger)
+## API Documentation (Swagger)
 
 All services include Swagger documentation. Access via:
 - `/swagger-ui.html` or `/docs` (based on setup)
 
 ---
 
-## 🐳 Dockerization
+## Dockerization
 
 - Each service includes a `Dockerfile` in the respective folder.
 - `docker-compose.yml` orchestrates the setup.
@@ -164,7 +164,9 @@ All services include Swagger documentation. Access via:
 ### Running via Docker
 ```bash
 docker-compose up --build
-❌ Error Handling
+```
+
+## Error Handling
 Frontend:
 
 Axios try-catch blocks.
@@ -181,16 +183,16 @@ Centralized exception handling.
 
 Logging to files in all services.
 
-▶️ Running the Project
+▶Running the Project
 
 
 Using batch file (Windows)
 Make sure Docker, Kafka and necessary DBs are installed. Modify the path of folders in the run-all.bat file before running.
 
 Run the .bat file:
-
-run_project.bat
-
+```
+run_all.bat
+```
 
 Manually
 Navigate into each service folder and run it individually as per language.
